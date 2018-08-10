@@ -1,0 +1,295 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo');
+@font-face {font-family: "Thud W01 Medium";
+  src: url("fonts/a3ce78873e546adb7abdd54098f4d6b1.eot"); /* IE9*/
+  src: url("fonts/a3ce78873e546adb7abdd54098f4d6b1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("fonts/a3ce78873e546adb7abdd54098f4d6b1.woff2") format("woff2"), /* chromeã€firefox */
+  url("fonts/a3ce78873e546adb7abdd54098f4d6b1.woff") format("woff"), /* chromeã€firefox */
+  url("fonts/a3ce78873e546adb7abdd54098f4d6b1.ttf") format("truetype"), /* chromeã€firefoxã€operaã€Safari, Android, iOS 4.2+*/
+  url("fonts/a3ce78873e546adb7abdd54098f4d6b1.svg#Thud W01 Medium") format("svg"); /* iOS 4.1- */
+}
+
+html {
+  height: 100%;
+  background-color: gainsboro;
+  font-family: 'Heebo', sans-serif;
+  font-size: 18px;
+  color: darkslategray;
+}
+
+/*colors: 
+blue: #00a6ff
+orange: #ff8f00
+*/
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  min-height: 100vh;
+  position: relative;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Thud W01 Medium";
+  text-transform: uppercase;
+  font-style: italic;
+  margin: 0 0 .5em .5em;
+}
+
+h1 {
+  font-size: 1.75em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+h5 {
+  font-size: .75em;
+}
+
+h6 {
+  font-size: .6em;
+}
+
+p {
+  line-height: 1.65;
+  margin: 1.25em;
+}
+
+
+
+.logocontainer {
+  position: relative;
+  width: 16%;
+}
+
+.logo {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+header {
+  z-index: 10;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  height: 25vh;
+  position: fixed;
+  padding-left: 2em;
+  background-image: linear-gradient(to right, #002424 20%, transparent), url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
+  background-position: 0 50%;
+  background-size: cover;
+  box-shadow: rgba(0, 0, 0, .5) 0 0 20px;
+  transition: height 0.2s;
+}
+
+nav {
+  height: 100%;
+}
+
+nav ul {
+  display: flex;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+nav ul li {
+  -webkit-clip-path: polygon(16px 0, 100% 0, calc(100% - 16px) 100%, 0% 100%);
+  clip-path: polygon(16px 0, 100% 0, calc(100% - 16px) 100%, 0% 100%);
+  display: flex;
+  margin: 0;
+  height: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;  
+  padding: 0 20px;
+}
+
+nav ul li:hover {
+  background-color: rgba(0, 0, 0, .3);
+  color: #ff8f00;
+  color: white;
+  border-bottom: 4px solid #ff8f00;
+  border-top: 4px solid transparent;
+}
+
+nav ul li:active {
+  border-bottom: 0;
+
+}
+
+nav ul li a {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  text-transform: lowercase;
+  font-style: italic;
+  font-family: "Thud W01 Medium";
+  font-size: 1.25em;
+  text-shadow: 0px 0px 3px black;
+  text-decoration: none;
+}
+
+section.content {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-column-gap: 1em;
+  grid-row-gap: 1em;
+  grid-template-areas:  "intro infobox" 
+                        "intro infobox2"  
+                        "intro infobox3";
+
+  position: relative;
+  padding: 2em 1em;
+  width: 75%;
+  margin: 25vh auto 0;
+  flex-grow: 1;
+  height: 100%;
+}
+
+
+.intro {
+  grid-area: intro;
+  position: relative;
+}
+
+.infobox {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-area: infobox;
+  position: relative;
+  height: 200px;
+  background: rgba(255, 255, 255, .25);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+}
+
+.box2 {
+  grid-area: infobox2;
+}
+
+.box3 {
+  grid-area: infobox3;
+}
+
+.infopic {
+  background: url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
+  background-size: cover;
+}
+
+.infopic img {
+  max-height: 100%;
+}
+
+.border {
+  position: absolute;
+  bottom: 0;
+  display: block;
+  height: 3px;
+  width: 100%;
+  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
+}
+
+.borderdown {
+  position: absolute;
+  left: 0;
+  display: block;
+  height: 50%;
+  width: 3px;
+  background-image: linear-gradient(to bottom, #ff8f00, #00a6ff, transparent);
+}
+
+footer {
+  /* position: absolute;
+  bottom: 0; */
+  width: 100%;
+  background-color: #002424;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, .25) 0 0 5px;
+  text-align: center;
+}
+
+footer h4 {
+  text-align: center;
+  color: gainsboro;
+}
+
+@media (max-width: 768px){
+  html {
+    font-size: 16px;
+  }
+
+  header {
+    position: relative;
+    height: 33vh;
+    flex-direction: column;
+    background-image: linear-gradient(to top, rgba(0, 36, 36, 0.60), rgba(0, 36, 36, .85) 80%), url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
+    padding-left: 0;
+  }
+
+  header .logocontainer {
+    width: 50%;
+    padding: 1em 0 1em;
+  }
+
+  nav {
+    height: initial;
+    width: 100%;
+    flex-basis: 100%;
+  }
+
+  nav ul {
+    flex-direction: column;
+  }
+
+  nav ul li {
+    width: 100%;
+    -webkit-clip-path: none;
+    clip-path: none;
+    padding: 0;
+  }
+
+  nav ul li a {
+    width: 100%;
+  }
+
+  nav ul li:hover {
+    background-color: initial;
+    color: initial;
+    color: initial;
+    border-bottom: initial;
+    border-top: initial;
+  }
+
+  nav ul li a:hover {
+    background-color: rgba(0, 0, 0, .3);
+    color: #ff8f00;
+    color: white;
+    border-bottom: 4px solid #ff8f00;
+    border-top: 4px solid transparent;
+  }
+
+  nav ul li a:active {
+    border: none;
+  }
+
+  section.content {
+    width: 100%;
+    margin-top: 0;
+  }
+}
