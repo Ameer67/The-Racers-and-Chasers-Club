@@ -21,8 +21,8 @@
         <ul>
         <li><a href="index.php"><span>home</span></a></li>
         <li><a href="events.php"><span>events</span></a></li>
-        <li><a href="#"><span>members</span></a></li>
-        <li><a href="#"><span>police</span></a></li>
+        <li><a href="members.php"><span>members</span></a></li>
+        <li><a href="police.php"><span>police</span></a></li>
         <li><a href="#"><span>thread</span></a></li>
         </ul>
     </nav>

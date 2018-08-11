@@ -1,4 +1,3 @@
-<!-- GET A .CLUB DOMAIN -->
 <!DOCTYPE html>
 <html>
     <?php include("components/headnav.php"); ?>
