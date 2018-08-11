@@ -1,27 +1,8 @@
 <!-- GET A .CLUB DOMAIN -->
 <!DOCTYPE html>
 <html>
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Home | TR&CC</title>
-    <link rel="stylesheet" href="reset.css">
-    <link rel="stylesheet" href="styles.css">
-</head>
+    <?php include("components/headnav.php"); ?>
 <body>
-    <header>
-        <div class="logocontainer">
-            <img class="logo" src="img/TR&CC_main.png">
-        </div>
-        <nav>
-            <ul>
-            <li><a href="#"><span>home</span></a></li>
-            <li><a href="#"><span>events</span></a></li>
-            <li><a href="#"><span>members</span></a></li>
-            <li><a href="#"><span>police</span></a></li>
-            <li><a href="#"><span>thread</span></a></li>
-            </ul>
-        </nav>
-    </header>
     <section class="content">
         <div class="intro">
             <div class="borderdown"></div>
@@ -49,13 +30,6 @@
         
 
     </section>
-    
-
-    <footer>
-        <h5><span class="dateandtime">
-        <?php echo date('F d, Y | g:i a');?></span> [Chicago | Central Time]</h5>
-        <h6>The Racers &amp; Chasers Club created by Ameer67. None of the text on this website may be used without permission.</h6>
-    </footer>
 
     <script src="scripts/header.js"></script>
 </body>
