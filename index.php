@@ -27,10 +27,7 @@
             <p>Yo</p>
             <div class="border"></div>
         </div>
-        
-
     </section>
-
-    <script src="scripts/header.js"></script>
+    <?php include("components/footer.php"); ?>
 </body>
 </html>
