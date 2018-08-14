@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
@@ -29,3 +31,5 @@
     </nav>
 </header>
 <script src="scripts/header.js"></script>
+<body>
+<section class="content">

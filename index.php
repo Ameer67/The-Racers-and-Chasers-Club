@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <?php include("components/headnav.php"); ?>
-<body>
-    <section class="content">
+<?php include("components/headnav.php"); ?>
         <div class="intro">
             <div class="borderdown"></div>
             <h1>Who we are</h1>
@@ -26,7 +22,4 @@
             <p>Yo</p>
             <div class="border"></div>
         </div>
-    </section>
-    <?php include("components/footer.php"); ?>
-</body>
-</html>
+<?php include("components/footer.php"); ?>
