@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="styles.css">
 </head>
+<?php include("dbsettings.php") ?>
 <header>
     <div class="logocontainer">
         <a href="index.php"><img class="logo" src="img/TR&CC_main.png"></a>
