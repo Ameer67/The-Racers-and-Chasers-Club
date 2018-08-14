@@ -1,25 +1,48 @@
 <?php include("components/headnav.php"); ?>
-        <div class="intro">
-            <div class="borderdown"></div>
-            <h1>Who we are</h1>
-            <p>Whe are the club.</p>
-        </div>
-        <div class="infobox box1">
-            <p>Yo</p>
-            <div class="border"></div>
+<div class="intro">
+    <div class="borderdown"></div>
+    <h1>Who we are</h1>
+    <p>The Racers &amp; Chasers Club is a group of players who try to simulate 
+    the experiences of a police officer or a street racer while staying true to the following core values:
+    fun, realistic, and democratic.
+    </p>
+    <p>Forza Horizon 4 is where club sessions are hosted
+    (which are typically held on Fridays and weekends). 
+    Members are expected to join sessions approximately once
+    every two weeks or as much as possible.</p>
+    <p>Respect is the name of the game in TR&amp;CC.</p>
+</div>
+<div class="infobox box1">
+    <div class="description">
+        <h3>Fun</h3>
+        <p>There are two sides participating in our sessions:
+        the cops and the racers. Members are given the 
+        oppurtunity to wreak havoc as a criminal or 
+        enforce the laws with other officers.</p>
+    </div>
+    <div class="border"></div>
 
-        </div>
-        <div class="infobox box2">
-            <p>Yo this is a test</p>
-            <div class="infopic">
-                <!-- <img src="https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg"> -->
-            </div>
-            <div class="border"></div>
-        
+</div>
+<div class="infobox box2">
+    <div class="description">
+        <h3>Realistic</h3>
+        <p>In this club, we try to keep things as 
+        close to the real world as possible without
+        interfering with the level of fun.</p>
+    </div>
+    
+    <div class="infopic">
+        <!-- <img src="https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg"> -->
+    </div>
+    <div class="border"></div>
 
-        </div>
-        <div class="infobox box3">
-            <p>Yo</p>
-            <div class="border"></div>
-        </div>
+
+</div>
+<div class="infobox box3">
+    <div class="description">
+        <h3>Democratic</h3>
+        <p>ddsd</p>
+    </div>
+    <div class="border"></div>
+</div>
 <?php include("components/footer.php"); ?>

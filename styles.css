@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Thud W01 Medium";
   text-transform: uppercase;
   font-style: italic;
-  margin: 0 0 .5em .5em;
+  margin-bottom: .25em;
 }
 
 h1 {
@@ -62,7 +62,7 @@ h6 {
 
 p {
   line-height: 1.65;
-  margin: 1.25em;
+  margin-bottom: .5em;
 }
 
 
@@ -167,14 +167,16 @@ section.content {
 .intro {
   grid-area: intro;
   position: relative;
+  padding: 0 1em 1em 1em;
 }
 
 .infobox {
+  /* padding: 1em; */
   display: grid;
   grid-template-columns: 2fr 1fr;
   grid-area: infobox;
   position: relative;
-  height: 200px;
+  min-height: 200px;
   background: rgba(255, 255, 255, .25);
   box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
 }
@@ -185,6 +187,10 @@ section.content {
 
 .box3 {
   grid-area: infobox3;
+}
+
+.description {
+  padding: 1em;
 }
 
 .infopic {
