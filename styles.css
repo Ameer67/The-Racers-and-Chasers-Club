@@ -198,7 +198,7 @@ section.content {
 }
 
 .infopic {
-  background-image: linear-gradient(to right,#e5e5e5, transparent 50%),url("http://compass.xboxlive.com/assets/3b/fe/3bfeced1-a273-4c3e-96aa-1d9e9a2ae29b.jpg?n=ForzaHorizon4_E3PressKit_WM_13_NightDrift_Carousel.jpg");
+  background: url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
   background-size: cover;
   background-position: center;
 }
