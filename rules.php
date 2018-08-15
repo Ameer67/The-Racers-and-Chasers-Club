@@ -27,9 +27,15 @@
 <div class="infobox noimg">
     <div class="description">
         <ul>
-            <li>Treat everyone with respect.</li>
-            <li>swag</li>
-            <li>swag</li>
+            <?php 
+                $rulesql = "SELECT * FROM rules";
+                $rulequery = mysqli_query($databaseConnection, $rulesql);
+
+                while($row = mysqli_fetch_array($rulequery)){
+                    $rule = $row["rule"];
+                    echo "<li>" . $rule . "</li>";
+                }
+            ?>
         </ul>
     </div>
     <div class="border"></div>
