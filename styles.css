@@ -65,32 +65,51 @@ p {
   margin-bottom: .5em;
 }
 
+header {
+  z-index: 10;
+  height: 25vh;
+  position: fixed;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, .5) 0 0 20px;
+  transition: height 0.2s;
+}
 
+header::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -2;
+  filter: blur(3px) brightness(.4);
+  transform:scale(1.4);
+  background-image: url("img/bg1.jpg");
+  background-position: 0 50%;
+  background-size: cover;
+}
+
+.logonavcontainer {
+  margin: auto;
+  width: 75%;
+  height: 100%;
+  padding: 0 1em 0 1em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  transition: width 0.2s;
+}
 
 .logocontainer {
   position: relative;
-  width: 16%;
+  margin-right: 2em;
+  max-width: 25%;
 }
 
 .logo {
   max-height: 100%;
   max-width: 100%;
-}
-
-header {
-  z-index: 10;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  height: 25vh;
-  position: fixed;
-  padding-left: 2em;
-  background-image: linear-gradient(to top, rgba(0,0,0,.5) 100%, transparent), url("img/bg1.jpg");
-  background-position: 0 50%;
-  background-size: cover;
-  box-shadow: rgba(0, 0, 0, .5) 0 0 20px;
-  transition: height 0.2s;
 }
 
 nav {
@@ -311,5 +330,15 @@ footer h5 span.dateandtime {
   section.content {
     width: 100%;
     margin-top: 0;
+  }
+}
+
+@media (max-width: 1366px) {
+  .logonavcontainer {
+    width: 100%;
+  }
+
+  nav ul li {
+    padding: 15px;
   }
 }
