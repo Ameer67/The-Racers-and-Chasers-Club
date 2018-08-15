@@ -1,28 +1,11 @@
 <?php include("components/headnav.php"); ?>
-<!-- <?php 
-    $sql = "SELECT * FROM members";
-    $query = mysqli_query($databaseConnection, $sql);
-
-    while($row = mysqli_fetch_array($query)){
-        $gtp_name = $row["gtp_name"];
-        $xbox_name = $row["xbox_name"];
-        echo "<p>" . $gtp_name . "</p>", $xbox_name;
-    }
-
-    
-?> -->
 <div class="intro">
     <div class="borderdown"></div>
-    <h1>Rules</h1>
-    <p>The Racers &amp; Chasers Club is a group of players who try to simulate 
-    the experiences of a police officer or a street racer while staying true to the following core values:
-    fun, realistic, and democratic.
+    <h1>Laws of the land</h1>
+    <p>TR&amp;CC relies on its members to control themselves, and most do just fine. But without any ground rules, things may get slightly out of hand...
     </p>
-    <p>Forza Horizon 4 is where club sessions are hosted
-    (which are typically held on Fridays and weekends). 
-    Members are expected to join sessions approximately once
-    every two weeks or as much as possible.</p>
-    <p>Respect is the name of the game in TR&amp;CC.</p>
+    <p>Rule changes can and do happen. If you would like to modify a rule, please post your concerns in the thread.</p>
+
 </div>
 <div class="infobox noimg">
     <div class="description">
