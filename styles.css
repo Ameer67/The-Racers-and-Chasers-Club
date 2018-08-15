@@ -181,6 +181,10 @@ section.content {
   box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
 }
 
+.noimg {
+  grid-template-columns: 1fr;
+}
+
 .box2 {
   grid-area: infobox2;
 }
@@ -218,6 +222,11 @@ section.content {
   height: 50%;
   width: 3px;
   background-image: linear-gradient(to bottom, #ff8f00, #00a6ff, transparent);
+}
+
+.description ul li{
+  list-style-type: disc;
+  margin: 0 1em 1em 1em;
 }
 
 footer {
