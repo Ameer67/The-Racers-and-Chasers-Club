@@ -8,6 +8,7 @@
     <p>Game mode specific rules can be located on the <a href="sessions.php">sessions</a> page.</p>
 
 </div>
+
 <div class="infobox noimg">
     <div class="description">
         <h3>General</h3>
@@ -30,6 +31,13 @@
             ?>
         </ul>
         <h3>Behavior</h3>
+        <ul>
+            <?php 
+                $rulequery = mysqli_query($databaseConnection, $behaviorRule);
+                include("components/rulelist.php");
+            ?>
+        </ul>
+
     </div>
     <div class="border"></div>
 </div>

@@ -86,7 +86,7 @@ header {
   height: 25vh;
   position: fixed;
   padding-left: 2em;
-  background-image: linear-gradient(to right, #002424 20%, transparent), url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
+  background-image: linear-gradient(to right, #002424 20%, transparent), url("img/bg1.jpg");
   background-position: 0 50%;
   background-size: cover;
   box-shadow: rgba(0, 0, 0, .5) 0 0 20px;
