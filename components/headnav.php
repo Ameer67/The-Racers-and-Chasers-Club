@@ -18,7 +18,7 @@
 <?php include("dbsettings.php") ?>
 <header>
     <div class="logocontainer">
-        <a href="index.php"><img class="logo" src="img/TR&CC_main.png"></a>
+        <a href="index.php"><img class="logo" src="img/TR&CC_main_shadow.png"></a>
     </div>
     <nav>
         <ul>
