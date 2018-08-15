@@ -24,6 +24,7 @@
         <ul>
         <li><a href="index.php"><span>home</span></a></li>
         <li><a href="sessions.php"><span>sessions</span></a></li>
+        <li><a href="rules.php"><span>rules</span></a></li>
         <li><a href="members.php"><span>members</span></a></li>
         <li><a href="police.php"><span>police</span></a></li>
         <li><a href="#"><span>thread</span></a></li>
