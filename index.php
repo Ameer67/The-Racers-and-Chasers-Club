@@ -20,6 +20,7 @@
         oppurtunity to wreak havoc as a criminal or 
         enforce the laws with other officers.</p>
     </div>
+    <div class="infopic"></div>
     <div class="border"></div>
 
 </div>
@@ -31,9 +32,7 @@
         interfering with the level of fun.</p>
     </div>
     
-    <div class="infopic">
-        <!-- <img src="https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg"> -->
-    </div>
+    <div class="infopic"></div>
     <div class="border"></div>
 
 
@@ -43,6 +42,7 @@
         <h3>Democratic</h3>
         <p>ddsd</p>
     </div>
+    <div class="infopic"></div>
     <div class="border"></div>
 </div>
 <?php include("components/footer.php"); ?>
