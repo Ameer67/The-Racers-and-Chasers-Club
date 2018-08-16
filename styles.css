@@ -272,6 +272,16 @@ footer h5 span.dateandtime {
   nav ul li {
     padding: 12px;
   }
+
+  header .logonavcontainer {
+    width: 100%;
+  }
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+  .logocontainer {
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 768px) and (min-width: 0px) {
@@ -285,7 +295,7 @@ footer h5 span.dateandtime {
     padding-left: 0;
   }
 
-  .logonavcontainer {
+  header .logonavcontainer {
     width: 100%;
     flex-direction: column;
     padding: 0;
