@@ -9,7 +9,7 @@ function resizeFunc(){
         } 
 
         if (window.innerWidth <= 768) {
-            header[0].style.height = "33vh";
+            header[0].style.height = "100%";
         }
 
     }
