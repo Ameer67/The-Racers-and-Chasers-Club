@@ -11,37 +11,65 @@
     
 
 </div>
+<div class="infobox noimg">
+    <div>
+        <div class="infotop">
+            <h3>General</h3>
+        </div>
+        <div class="infobottom">
+            <ul>
+                <?php 
+                    $rulesql = "SELECT * FROM rules WHERE ";
+                    $generalRule = $rulesql . "rule_type = 'general'";
+                    $gameplayRule = $rulesql . "rule_type = 'gameplay'";
+                    $behaviorRule = $rulesql . "rule_type = 'behavior'";            
+                    
+                    $rulequery = mysqli_query($databaseConnection, $generalRule);
+                    include("components/rulelist.php");
+                ?>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
 
 <div class="infobox noimg">
-    <div class="description">
-        <h3>General</h3>
-        <ul>
-            <?php 
-                $rulesql = "SELECT * FROM rules WHERE ";
-                $generalRule = $rulesql . "rule_type = 'general'";
-                $gameplayRule = $rulesql . "rule_type = 'gameplay'";
-                $behaviorRule = $rulesql . "rule_type = 'behavior'";            
-                
-                $rulequery = mysqli_query($databaseConnection, $generalRule);
-                include("components/rulelist.php");
-            ?>
-        </ul>
-        <h3>Gameplay</h3>
-        <ul>
-            <?php 
-                $rulequery = mysqli_query($databaseConnection, $gameplayRule);
-                include("components/rulelist.php");
-            ?>
-        </ul>
-        <h3>Behavior</h3>
-        <ul>
-            <?php 
-                $rulequery = mysqli_query($databaseConnection, $behaviorRule);
-                include("components/rulelist.php");
-            ?>
-        </ul>
-
+    <div>
+        <div class="infotop">
+            <h3>Gameplay</h3>
+        </div>
+        <div class="infobottom">
+            <ul>
+                <?php 
+                    $rulequery = mysqli_query($databaseConnection, $gameplayRule);
+                    include("components/rulelist.php");
+                ?>
+            </ul>
+        </div>
     </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+
+<div class="infobox noimg">
+    <div>
+        <div class="infotop">
+            <h3>Behavior</h3>
+        </div>
+        <div class="infobottom">
+            <ul>
+                <?php 
+                    $rulequery = mysqli_query($databaseConnection, $behaviorRule);
+                    include("components/rulelist.php");
+                ?>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
     <div class="border"></div>
 </div>
 <?php include("components/footer.php"); ?>

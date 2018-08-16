@@ -197,7 +197,6 @@ section.content{
 
 .infobox {
   position: relative;
-  min-height: 200px;
   width: 100%;
   display: grid;
   grid-template-columns: 2fr 1fr;
@@ -217,6 +216,15 @@ section.content{
 
 .infobottom {
   padding: 1em;
+}
+
+.infobottom ul li{
+  list-style-type: disc;
+  margin: 0 1em 1em 1em;
+}
+
+.infobottom ol li {
+  margin: 0 1em 0 1em;
 }
 
 .infoimg {
@@ -259,15 +267,6 @@ section.content{
   height: 3px;
   width: 100%;
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-}
-
-.description ul li{
-  list-style-type: disc;
-  margin: 0 1em 1em 1em;
-}
-
-.description ol li {
-  margin: 0 1em 0 1em;
 }
 
 .policelogocontainer {
