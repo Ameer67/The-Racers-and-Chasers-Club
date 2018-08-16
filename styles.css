@@ -249,6 +249,15 @@ section.content {
   margin: 0 1em 1em 1em;
 }
 
+.policelogocontainer {
+  width: 200px;
+  margin-bottom: .75em;
+}
+
+.policelogocontainer img {
+  max-width: 100%;
+}
+
 footer {
   /* position: absolute;
   bottom: 0; */
