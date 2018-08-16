@@ -8,31 +8,33 @@
     Members are expected to join sessions approximately once
     every two weeks or as much as possible. All in all, we enjoy a good time.</p>
 </div>
-<div class="infobox box1">
-    <div class="description">
-        <h3>Fun</h3>
-        <p>There are two sides participating in our sessions:
-        the cops and the racers. Members are given the 
-        oppurtunity to wreak havoc as a criminal or 
-        enforce the laws with other officers.</p>
-    </div>
-    <div class="border"></div>
-
-</div>
-<div class="infobox box2">
-    <div class="description">
-        <h3>Realistic</h3>
-        <p>In this club, we try to keep things as 
-        close to the real world as possible without
-        interfering with the level of fun.</p>
+<div class="infobox">
+    <div>
+        <div class="infotop">
+            <h3>Fun</h3>
+        </div>
+        <div class="infobottom">
+            <p>There are two sides participating in our sessions: the cops and the racers. Members are given the oppurtunity to wreak havoc as a criminal or enforce the laws with other officers.</p>
+        </div>
     </div>
     
-    <div class="infopic">
-        <!-- <img src="https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg"> -->
-    </div>
+    <div class="infoimg"></div>
     <div class="border"></div>
-
-
+</div>
+<div class="infobox">
+    <div>
+        <div class="infotop">
+            <h3>Realistic</h3>
+        </div>
+        <div class="infobottom">
+            <p>In this club, we try to keep things as 
+            close to the real world as possible without
+            interfering with the level of fun.</p>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
 </div>
 <div class="infobox">
     <div>
