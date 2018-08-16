@@ -1,4 +1,4 @@
-<?php include("components/headnav.php"); ?>
+<?php include("components/homeheadnav.php"); ?>
 <div class="intro">
     <div class="borderdown"></div>
     <h1>Who we are</h1>
@@ -10,7 +10,7 @@
     (which are typically held on Fridays and weekends). 
     Members are expected to join sessions approximately once
     every two weeks or as much as possible.</p>
-    <p>Respect is the name of the game in TR&amp;CC.</p>
+    <p>All in all, just have a good time.</p>
 </div>
 <div class="infobox box1">
     <div class="description">

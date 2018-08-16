@@ -165,7 +165,7 @@ nav ul li a {
   text-decoration: none;
 }
 
-section.content {
+section.home {
   display: grid;
   grid-template-columns: 1fr 2fr;
   grid-column-gap: 1em;
@@ -173,10 +173,12 @@ section.content {
   grid-template-areas:  "intro infobox" 
                         "intro infobox2"  
                         "intro infobox3";
+}
 
+section.content{
   position: relative;
   padding: 2em 1em;
-  width: 75%;
+  width: 65%;
   margin: 25vh auto 0;
   flex-grow: 1;
   height: 100%;
@@ -247,6 +249,10 @@ section.content {
 .description ul li{
   list-style-type: disc;
   margin: 0 1em 1em 1em;
+}
+
+.description ol li {
+  margin: 0 1em 0 1em;
 }
 
 .policelogocontainer {
