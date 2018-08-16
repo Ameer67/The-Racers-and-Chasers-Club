@@ -1,11 +1,16 @@
 <?php include("components/headnav.php"); ?>
 <div class="intro">
     <div class="borderdown"></div>
-    <h1>Laws of the land</h1>
-    <p>TR&amp;CC relies on its members to control themselves, and most do just fine. But without any ground rules, things may get slightly out of hand...
-    </p>
-    <p>Rule changes can and do happen. If you would like to modify a rule, please post your concerns in the thread.</p>
-    <p>Game mode specific rules can be located on the <a href="sessions.php">sessions</a> page.</p>
+    <div style="position:relative;">
+        <h1>Laws of the land</h1>
+        <div class="border"></div>
+    </div>
+    
+    <div class="description">
+        <p>TR&amp;CC relies on its members to control themselves, and most do just fine. But without any ground rules, things may get slightly out of hand...
+        Rule changes can and do happen. If you would like to modify a rule, please post your concerns in the thread. Game mode specific rules can be located on the <a href="sessions.php">sessions</a> page.</p>
+    </div>
+    
 
 </div>
 

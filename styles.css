@@ -61,8 +61,7 @@ h6 {
 }
 
 p {
-  line-height: 1.65;
-  margin-bottom: .5em;
+  line-height: 2;
 }
 
 header {
@@ -91,7 +90,7 @@ header::before {
 
 .logonavcontainer {
   margin: auto;
-  width: 75%;
+  width: 65%;
   height: 100%;
   padding: 0 1em 0 1em;
   display: flex;
@@ -186,20 +185,38 @@ section.content{
 
 
 .intro {
-  grid-area: intro;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
   position: relative;
   padding: 0 1em 1em 1em;
 }
 
+.introhome {
+  grid-area: intro;
+}
+
 .infobox {
-  /* padding: 1em; */
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  grid-area: infobox;
   position: relative;
   min-height: 200px;
-  background: rgba(255, 255, 255, .25);
-  box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+  width: 100%;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  background: whitesmoke;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
+  margin-bottom: 1em;
+}
+
+.infotop {
+  background: lightgray;
+  padding: 1em;
+}
+
+.infobottom {
+  padding: 1em;
+}
+
+.infoimg {
+  background: black;
 }
 
 .noimg {
@@ -214,6 +231,9 @@ section.content{
   grid-area: infobox3;
 }
 
+.intro .description{
+  padding: 0 1em 0 1em;
+}
 .description {
   padding: 1em;
 }
