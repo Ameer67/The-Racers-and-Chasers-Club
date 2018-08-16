@@ -1,2 +1,2 @@
-
-ErrorDocument 404 /The-Racers-and-Chasers-Club/error404.php
+#add /The-Racers-and-Chasers-Club if local
+ErrorDocument 404 /error404.php
