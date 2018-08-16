@@ -211,6 +211,10 @@ section.content{
   padding: 1em;
 }
 
+.infotop p {
+  font-size: .9em;
+}
+
 .infobottom {
   padding: 1em;
 }
@@ -255,15 +259,6 @@ section.content{
   height: 3px;
   width: 100%;
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-}
-
-.borderdown {
-  position: absolute;
-  left: 0;
-  display: block;
-  height: 50%;
-  width: 3px;
-  background-image: linear-gradient(to bottom, #ff8f00, #00a6ff, transparent);
 }
 
 .description ul li{

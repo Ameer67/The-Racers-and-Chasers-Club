@@ -1,9 +1,7 @@
 <?php include("components/headnav.php"); ?>
 <div class="intro">
-    <div class="borderdown"></div>
     <div style="position:relative;">
         <h1>Laws of the land</h1>
-        <div class="border"></div>
     </div>
     
     <div class="description">
