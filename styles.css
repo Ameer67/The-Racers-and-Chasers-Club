@@ -45,10 +45,12 @@ h2 {
 
 h3 {
   font-size: 1.25em;
+  color: #ff8f00;
 }
 
 h4 {
   font-size: 1em;
+  color: #00a6ff;
 }
 
 h5 {
@@ -224,6 +226,17 @@ section.content{
 
 .infobottom ol li {
   margin: 0 1em 0 1em;
+  font-family: "Thud W01 Medium";
+  font-style: italic;
+}
+
+.quadgrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  column-gap: 1em;
+  row-gap: 1em;
+  padding: 2.5em;
 }
 
 .infoimg {
