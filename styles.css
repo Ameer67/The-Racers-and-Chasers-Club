@@ -199,7 +199,7 @@ section.content{
   width: 100%;
   display: grid;
   grid-template-columns: 2fr 1fr;
-  background: whitesmoke;
+  background: #eee;
   box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
   margin-bottom: 1em;
 }
