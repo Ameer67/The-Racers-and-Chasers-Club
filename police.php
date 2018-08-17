@@ -9,12 +9,12 @@
     <div>
         <div class="infotop">
             <h3>Catching the criminals</h3>
-            <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below.</p>
+            <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
         </div>
-        <div class="infobottom quadgrid">
+        <div class="infobottom pursuitgrid">
             <div>
                 <h4>1. Patrolling</h4>
-                <p>All on-duty police officers will be on the lookout for anyone causing trouble. Things like going above the speed limit, causing damage, driving like a drunkard, etc. will attract the police to a racer. Police are not allowed to continually follow a racer around unless they are doing something suspiscous.</p>
+                <p>All on-duty police officers will be on the lookout for anyone causing trouble. Police are not allowed to continually follow anyone around unless they are doing something suspiscous.</p>
             </div>
             <div>
                 <h4>2. Initiating the pursuit</h4>
@@ -22,13 +22,47 @@
             </div>
             <div>
                 <h4>3. Chasing the racer</h4>
-                <p>To bust a racer, the police must surrond the him/her for 10 seconds. If the pursuit lasted 10 or more minutes and/or the SWAT team was called in, the racer's car is impounded. Otherwise, the racer gets a second try. The second try (if there is one) will always result in an impound at the end.</p>
+                <p>If the offender does not stop their vehicle, the officer and offender are now in a pursuit. From there, the police officer will do everything they can to catch them. They may call for backup, try to use one of their maneuvers, escalate the pursuit priority; whatever is needed to bust the racer will be done.</p>
             </div>
             <div>
-                <h4>4. Busting the racer or calling of the pursuit</h4>
-                <p>To bust a racer, the police must surrond the him/her for 10 seconds. If the pursuit lasted 10 or more minutes and/or the SWAT team was called in, the racer's car is impounded. Otherwise, the racer gets a second try. The second try (if there is one) will always result in an impound at the end.</p>
+                <h4>4A. Busting the racer</h4>
+                <p>Police must surround the racer for at least 10 seconds to be considered caught. If police lose visual contact for 2 minutes, the racer has successfully evaded.</p>
+            </div>
+            <div>
+                <h4>4B. Racer first try bust</h4>
+                <p> If the chase lasted 10+ minutes, reached priority 1, and/or the SWAT team was called in, racers do NOT get a second try. Otherwise, move to 4C.</p>
+            </div>
+            <div>
+                <h4>4C. Racer second try bust (if applicable)</h4>
+                <p>The racer's turn is up, regardless of whether or not the conditions previously stated were met.</p>
             </div>
         
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+
+<div class="infobox noimg">
+    <div>
+        <div class="infotop">
+            <h3>Pursuit priorities</h3>
+            <p>Police pursuits are split into three categories depending on the status of the chase. The lead officer can help inform others by declaring the priority.</p>
+        </div>
+        <div class="infobottom pursuitgrid">
+            <div>
+                <h4>Priority 3</h4>
+                <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. <br>Example: typical traffic stop.</p>
+            </div>
+            <div>
+                <h4>Priority 2</h4>
+                <p>The pursuit is starting to escalate and things are getting a bit out of hand. Some backup would be useful. <br>Example: runaway speeder.</p>
+            </div>
+            <div>
+                <h4>Priority 1</h4>
+                <p>The pursuit is completely out of control and all backup available should join the chase. <br> Example: pursuit that has been going on for a while.</p>
+            </div> 
         </div>
     </div>
     

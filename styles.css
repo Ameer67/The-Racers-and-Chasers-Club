@@ -203,7 +203,7 @@ section.content{
   grid-template-columns: 2fr 1fr;
   background: #eee;
   box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
-  margin-bottom: 1em;
+  margin-bottom: 3em;
 }
 
 .infotop {
@@ -230,10 +230,10 @@ section.content{
   font-style: italic;
 }
 
-.quadgrid {
+.pursuitgrid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
   column-gap: 2.5em;
   row-gap: 2.5em;
   padding: 2.5em;
