@@ -234,8 +234,8 @@ section.content{
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr;
-  column-gap: 1em;
-  row-gap: 1em;
+  column-gap: 2.5em;
+  row-gap: 2.5em;
   padding: 2.5em;
 }
 
