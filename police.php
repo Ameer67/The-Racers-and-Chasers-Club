@@ -22,7 +22,7 @@
             </div>
             <div>
                 <h4>3. Chasing the racer</h4>
-                <p>If the offender does not stop their vehicle, the officer and offender are now in a pursuit. From there, the police officer will do everything they can to catch them. They may call for backup, try to use one of their maneuvers, escalate the pursuit priority; whatever is needed to bust the racer will be done.</p>
+                <p>If the offender does not stop their vehicle, the officer and offender are now in a pursuit. Whatever is needed to bust the racer will be done.</p>
             </div>
             <div>
                 <h4>4A. Busting the racer</h4>
