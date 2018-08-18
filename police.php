@@ -52,9 +52,15 @@
 
 <div class="infobox noimg">
     <div>
-        <div class="infotop">
-            <h3>Pursuit priorities</h3>
-            <p>Police pursuits are split into three categories depending on the status of the chase. The lead officer can help inform others by declaring the priority.</p>
+        <div class="infotop icongrid">
+            <div>
+                <h3>Pursuit priorities</h3>
+                <p>Police pursuits are split into three categories depending on the status of the chase. The lead officer can help inform others by declaring the priority.</p>
+            </div>
+            
+            <div class="icon">
+                <img src="img/icons/flame.png" alt="flame">
+            </div>
         </div>
         <div class="infobottom pursuitgrid">
             <div>
@@ -78,9 +84,15 @@
 
 <div class="infobox noimg">
     <div>
-        <div class="infotop">
-            <h3>Police car classes</h3>
-            <p>The Lothian Police Service employs a wide variety of vehicles, each with a specific purpose.</p>
+        <div class="infotop icongrid">
+            <div>
+                <h3>Police car classes</h3>
+                <p>The Lothian Police Service employs a wide variety of vehicles, each with a specific purpose.</p>
+            </div>
+            
+            <div class="icon">
+                <img src="img/icons/police-car.png" alt="police car">
+            </div>
         </div>
         <div class="infobottom pursuitgrid">
             <div>
