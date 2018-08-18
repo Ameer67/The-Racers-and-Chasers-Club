@@ -207,6 +207,7 @@ section.content{
 .infotop {
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
   padding: 1em;
+  position: relative;
 }
 
 .infotop h3 {
@@ -216,6 +217,22 @@ section.content{
 .infotop p {
   color: white;
   font-size: .9em;
+}
+
+.icongrid {
+  display: grid;
+  grid-template-columns: auto 64px;
+  align-items: center;
+}
+
+.infotop .icon {
+  opacity: .5;
+  width: 64px;
+  height: 64px;
+}
+
+.infotop .icon img {
+  max-width: 100%;
 }
 
 .infobottom {
@@ -328,7 +345,7 @@ footer h5 span.dateandtime {
   section.content {
     width: 85%;
   }
-  
+
   nav ul li {
     padding: 12px;
   }

@@ -7,9 +7,15 @@
 </div>
 <div class="infobox noimg">
     <div>
-        <div class="infotop">
-            <h3>Catching the criminals</h3>
-            <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
+        <div class="infotop icongrid">
+            <div>
+                <h3>Catching the criminals</h3>
+                <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
+            </div>
+            
+            <div class="icon">
+                <img src="img/icons/binoculars.png" alt="binoculars">
+            </div>
         </div>
         <div class="infobottom pursuitgrid">
             <div>
@@ -79,11 +85,12 @@
         <div class="infobottom pursuitgrid">
             <div>
                 <h4>Cruiser</h4>
-                <p>The common patrol car seen roaming the streets.</p>
+                <p>The common patrol car seen roaming the streets. Most on-duty officers will be seen in this.</p>
             </div>
             <div>
                 <h4>Rhino</h4>
-                <p>The pursuit is starting to escalate and things are getting a bit out of hand. Some backup would be useful. <br>Example: runaway speeder.</p>
+                <p>This class consists of SUVs and pickups made for ramming racers off the road and are allowed to perform a head-on hit to take them out.
+                <br> Limit: Only 1 allowed on-duty until there are 8+ players, then 2.</p>
             </div>
             <div>
                 <h4>Stealth</h4>
