@@ -318,7 +318,17 @@ footer h5 span.dateandtime {
   font-weight: bold;
 }
 
+@media (max-width: 1600px) and (min-width: 1366px) {
+  section.content {
+    width: 80%;
+  }
+}
+
 @media (max-width: 1366px) and (min-width: 768px) {
+  section.content {
+    width: 85%;
+  }
+  
   nav ul li {
     padding: 12px;
   }
