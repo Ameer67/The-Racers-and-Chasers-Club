@@ -70,4 +70,42 @@
     <div class="border"></div>
 </div>
 
+<div class="infobox noimg">
+    <div>
+        <div class="infotop">
+            <h3>Police car classes</h3>
+            <p>The Lothian Police Service employs a wide variety of vehicles, each with a specific purpose.</p>
+        </div>
+        <div class="infobottom pursuitgrid">
+            <div>
+                <h4>Cruiser</h4>
+                <p>The common patrol car seen roaming the streets.</p>
+            </div>
+            <div>
+                <h4>Rhino</h4>
+                <p>The pursuit is starting to escalate and things are getting a bit out of hand. Some backup would be useful. <br>Example: runaway speeder.</p>
+            </div>
+            <div>
+                <h4>Stealth</h4>
+                <p>The pursuit is completely out of control and all backup available should join the chase. <br> Example: pursuit that has been going on for a while.</p>
+            </div> 
+            <div>
+                <h4>Enforcer</h4>
+                <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. <br>Example: typical traffic stop.</p>
+            </div>
+            <div>
+                <h4>SWAT</h4>
+                <p>The pursuit is starting to escalate and things are getting a bit out of hand. Some backup would be useful. <br>Example: runaway speeder.</p>
+            </div>
+            <div>
+                <h4>Ambulance</h4>
+                <p>The pursuit is completely out of control and all backup available should join the chase. <br> Example: pursuit that has been going on for a while.</p>
+            </div> 
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+
 <?php include("components/footer.php"); ?>
