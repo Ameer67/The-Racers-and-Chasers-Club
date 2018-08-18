@@ -186,8 +186,13 @@ section.content{
 .intro {
   display: grid;
   grid-template-columns: 1fr 3fr;
+  column-gap: .5em;
   position: relative;
   padding: 0 1em 1em 1em;
+}
+
+.intro h1 {
+  line-height: 1.4;
 }
 
 .introhome {
