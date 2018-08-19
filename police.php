@@ -24,7 +24,7 @@
             </div>
             <div>
                 <h4>2. Initiating the pursuit</h4>
-                <p>Once the officer sees an offender, they will attempt to pull them over by driving behind their vehicle and honking their horn a few times. Officers should give racers a few seconds to pull over before starting a chase.</p>
+                <p>Once the officer sees an offender, they will attempt to pull them over by driving behind their vehicle and honking their horn/siren a few times. Officers should give racers a few seconds to pull over before starting a chase.</p>
             </div>
             <div>
                 <h4>3. Chasing the racer</h4>
