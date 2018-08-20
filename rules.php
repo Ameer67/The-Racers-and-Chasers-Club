@@ -1,6 +1,6 @@
 <?php include("components/headnav.php"); ?>
 <div class="intro">
-    <div style="position:relative;">
+    <div>
         <h1>Laws of the land</h1>
     </div>
     
