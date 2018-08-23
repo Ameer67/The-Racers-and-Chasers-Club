@@ -19,10 +19,15 @@
         </div>
         <div class="infobottom pursuitgrid">
             <div>
-                <img src="https://www.gtplanet.net/forum/data/avatars/l/233/233077.jpg?1534537666" style="border-radius:100%;">
-                <h4>Ameer67</h4>
-                <p>AmeerSixtySeven</p>
-                <p>Joined on 8/19/2018</p>
+                <div>
+                    <img src="https://www.gtplanet.net/forum/data/avatars/l/233/233077.jpg?1534537666">
+                </div>
+                <div>
+                    <h4>Ameer67</h4>
+                    <p>AmeerSixtySeven</p>
+                    <p>Joined on 8/19/2018</p>
+                </div>
+                
             </div>
             <div>
                 <h4>2. Initiating the pursuit</h4>
