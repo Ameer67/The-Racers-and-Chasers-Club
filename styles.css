@@ -259,6 +259,33 @@ section.content{
   color: #00a6ff;
 }
 
+.member {
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
+  border-radius: .5em;
+  padding: 1em;
+}
+
+.memberimg {
+  width: 125px;
+  height: 125px;
+}
+
+.memberimg img {
+  max-width: 100%;
+  border-radius: .5em;
+  box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+}
+.memberinfo {
+  margin-left: 1em;
+}
+.memberinfo p{
+  line-height: 1.5;
+  color: green;
+}
+
 .pursuitgrid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
