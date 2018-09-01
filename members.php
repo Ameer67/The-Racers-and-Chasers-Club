@@ -14,7 +14,7 @@
             </div>
             
             <div class="icon">
-                <img src="img/icons/binoculars.png" alt="binoculars">
+                <img src="img/icons/members.png" alt="members">
             </div>
         </div>
         <div class="infobottom pursuitgrid">
