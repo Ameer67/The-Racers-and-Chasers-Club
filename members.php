@@ -32,15 +32,15 @@
     <form action="">  
         <fieldset>
             <label for="gtpaccount">
-            I have created a GTPlanet account   
+               <p>I have created a GTPlanet account</p>
             <input type="checkbox" name="gtpaccount" id="gtpaccount">
             </label>
             <label for="mic">
-                I have a microphone   
+                   <p>I have a microphone</p>
                <input type="checkbox" name="mic" id="mic">
             </label>
              <label for="stealthunits">
-                 How many stealth units are allowed on duty?
+                  <p>How many stealth units are allowed on duty?</p>
                 <select name="stealthunits" id="stealthunits">
                     <option value="0">0</option>
                     <option value="0">1</option>
@@ -49,15 +49,24 @@
                 </select>
             </label>
         </fieldset>
-        
-        
-        
-        How many stealth units are allowed on-duty? [0,1,2,3,4]
-
-        Xbox Live Gamertag
-        Time zone
-        How did you discover this club?
-        Anything else you would like to share?
+        <fieldset>
+            <label for="xbl">
+                <p>Xbox Live Gamertag:</p>
+                <input type="text" name="xbl" id="xbl">
+            </label>
+            <label for="timezone">
+                <p>Timezone:</p>
+                <input type="text" name="timezone" id="timezone">
+            </label>
+            <label for="clubdiscover">
+                <p>How did you discover this club?:</p>
+                <textarea name="clubdiscover" id="clubdiscover"></textarea>
+            </label>
+            <label for="share">
+                 <p>Anything else you'd like to share?:</p>
+                <textarea name="share" id="share"></textarea>
+            </label>
+        </fieldset>
     </form>
 </div>
 <?php include("components/footer.php"); ?>
