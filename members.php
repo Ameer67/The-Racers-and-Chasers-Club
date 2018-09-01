@@ -31,13 +31,24 @@
     <p>Like what you see and interested in joining us? Please complete the steps below.</p>
     <form action="">  
         <label for="gtpaccount">
-    I have created a GTPlanet account <input type="checkbox" name="gtpaccount" id="gtpaccount">
-    </label>
-        <input type="checkbox" name="gtpaccount" id="">
-        <input type="checkbox" name="microphone" id="">
-        <select name="stealthunits" id=""></select>
-        I have created a GTPlanet account []
-        I have a microphone []
+            I have created a GTPlanet account   
+            <input type="checkbox" name="gtpaccount" id="gtpaccount">
+        </label>
+        <label for="mic">
+            I have a microphone   
+            <input type="checkbox" name="mic" id="mic">
+        </label>
+        <label for="stealthunits">
+            How many stealth units are allowed on duty?
+            <select name="stealthunits" id="stealthunits">
+                <option value="0">0</option>
+                <option value="0">1</option>
+                <option value="0">2</option>
+                <option value="0">3</option>
+            </select>
+        </label>
+        
+        
         How many stealth units are allowed on-duty? [0,1,2,3,4]
 
         Xbox Live Gamertag
