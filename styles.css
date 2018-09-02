@@ -342,6 +342,16 @@ section.content{
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
 }
 
+.infobox::before { /* border for top of infobox */
+  content: "";
+  position: absolute;
+  top: 0;
+  display: block;
+  height: 3px;
+  width: 100%;
+  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
+}
+
 .policelogocontainer {
   width: 200px;
   margin-bottom: .75em;
