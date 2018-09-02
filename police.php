@@ -1,7 +1,7 @@
 <?php include("components/headnav.php"); ?>
 <div class="intro">
     <div class="policelogocontainer">
-        <img src="img/LothianPoliceBlack.png" alt="Lothian Police Logo">
+        <img src="img/LothianPolice.png" alt="Lothian Police Logo">
     </div>
     <p>Formed in 2018, the new Lothian Police Service protects the Lothian region and surrounding communities from the recent surge in illegal street racing. Anyone with information about any suspicious activies should contact the LPS immediately.</p> 
 </div>
