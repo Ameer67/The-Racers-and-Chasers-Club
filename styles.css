@@ -10,7 +10,8 @@
 
 html {
   height: 100%;
-  background-color: gainsboro;
+  background-image: linear-gradient(#3e526f, #1B2C3D);
+  background-attachment: fixed;
   font-family: 'Heebo', sans-serif;
   font-size: 18px;
   color: darkslategray;
