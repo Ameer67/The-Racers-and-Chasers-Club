@@ -205,6 +205,8 @@ section.content{
   width: 100%;
   display: grid;
   grid-template-columns: 2fr 1fr;
+  border-left: 3px solid #ff8f00;
+  border-right: 3px solid #00a6ff;
   background: #eee;
   box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
   margin-bottom: 2em;
