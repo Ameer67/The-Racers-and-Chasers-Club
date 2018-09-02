@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <?php include("dbsettings.php") ?>
+<body>
 <header>
     <div class="logonavcontainer">
         <div class="logocontainer">
@@ -34,5 +35,4 @@
     </div>
 </header>
 <script src="scripts/header.js"></script>
-<body>
 <section class="content">
