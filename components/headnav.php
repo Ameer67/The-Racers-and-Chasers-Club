@@ -35,7 +35,7 @@
         <footer>
             <h5>
                 <span class="dateandtime">
-                <?php echo date('F d, Y g:i a');?></span> Chicago - Central Time
+                <?php echo date('F j, Y g:i a');?></span> Chicago - Central Time
             </h5>
         </footer>
     </div>
