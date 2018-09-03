@@ -1,4 +1,4 @@
-<?php include("components/homeheadnav.php"); ?>
+<?php include("components/headnav.php"); ?>
 <div class="introhome">
     <h1>Who we are</h1>
     <p>The Racers &amp; Chasers Club is a group of players who try to simulate 
