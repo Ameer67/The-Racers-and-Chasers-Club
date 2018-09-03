@@ -387,7 +387,13 @@ footer h5 span.dateandtime {
 }
 
 @media (max-width: 1366px) and (min-width: 768px) {
+  header {
+    width: 25vw;
+  }
 
+  section.content {
+    margin: 0 0 0 25vw;
+  }
 }
 
 @media (max-width: 1200px) and (min-width: 768px) {
@@ -455,7 +461,7 @@ footer h5 span.dateandtime {
 
   section.content {
     width: 100%;
-    margin-top: 0;
+    margin: 0;
   }
 
 }
