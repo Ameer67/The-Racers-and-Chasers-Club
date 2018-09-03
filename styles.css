@@ -64,6 +64,10 @@ p {
   line-height: 2;
 }
 
+a {
+  color: #ff8f00;
+}
+
 header {
   z-index: 10;
   height: 100vh;
@@ -175,7 +179,7 @@ section.home {
 section.content{
   position: relative;
   padding: 2em 1em;
-  margin: 0 10vw 0 20vw;
+  margin: 0 5vw 0 25vw;
   flex-grow: 1;
   height: 100%;
 }
