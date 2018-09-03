@@ -34,5 +34,5 @@
         </nav>
     </div>
 </header>
-<script src="scripts/header.js"></script>
+<!-- <script src="scripts/header.js"></script> -->
 <section class="content">
