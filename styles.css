@@ -365,17 +365,11 @@ section.content{
 }
 
 footer {
-  color: darkslategray;
+  color: white;
+  opacity: .3;
   width: 100%;
-  background-color: #002424;
   padding: 20px;
-  box-shadow: rgba(0, 0, 0, .25) 0 0 5px;
   text-align: center;
-}
-
-footer h4 {
-  text-align: center;
-  color: gainsboro;
 }
 
 footer h5 span.dateandtime {

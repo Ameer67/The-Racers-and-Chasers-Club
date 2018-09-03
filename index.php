@@ -49,4 +49,6 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<?php include("components/footer.php"); ?>
+</section> 
+</body> 
+</html>

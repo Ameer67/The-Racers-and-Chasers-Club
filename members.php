@@ -69,4 +69,6 @@
         </fieldset>
     </form>
 </div>
-<?php include("components/footer.php"); ?>
+</section> 
+</body> 
+</html>

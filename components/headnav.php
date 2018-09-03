@@ -32,6 +32,12 @@
             <li><a href="#"><span>thread</span></a></li>
             </ul>
         </nav>
+        <footer>
+            <h5>
+                <span class="dateandtime">
+                <?php echo date('F d, Y g:i a');?></span> Chicago - Central Time
+            </h5>
+        </footer>
     </div>
 </header>
 <!-- <script src="scripts/header.js"></script> -->
