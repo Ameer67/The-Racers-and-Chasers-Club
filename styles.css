@@ -383,29 +383,15 @@ footer h5 span.dateandtime {
 }
 
 @media (max-width: 1600px) and (min-width: 1366px) {
-  section.content {
-    width: 80%;
-  }
+
 }
 
 @media (max-width: 1366px) and (min-width: 768px) {
-  section.content {
-    width: 95%;
-  }
 
-  nav ul li {
-    padding: 12px;
-  }
-
-  header .logonavcontainer {
-    width: 100%;
-  }
 }
 
 @media (max-width: 1200px) and (min-width: 768px) {
-  .logocontainer {
-    margin-right: 0;
-  }
+
 }
 
 @media (max-width: 768px) and (min-width: 0px) {
@@ -415,14 +401,8 @@ footer h5 span.dateandtime {
 
   header {
     position: relative;
-    height: 100%;
-    padding-left: 0;
-  }
-
-  header .logonavcontainer {
-    width: 100%;
-    flex-direction: column;
-    padding: 0;
+    width: 100vw;
+    height: initial;
   }
 
   header .logocontainer {
@@ -443,7 +423,7 @@ footer h5 span.dateandtime {
 
   nav ul li {
     width: 100%;
-    height: 50px;
+    height: 40px;
     -webkit-clip-path: none;
     clip-path: none;
     padding: 0;
@@ -478,4 +458,12 @@ footer h5 span.dateandtime {
     margin-top: 0;
   }
 
+}
+
+@media (max-width: 768px) and (min-width: 400px){
+  header .logocontainer {
+    max-width: 50%;
+    padding: 0;
+    margin: 1em 0 0 0;
+  }
 }
