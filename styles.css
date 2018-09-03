@@ -91,11 +91,9 @@ header::before {
 
 .logonavcontainer {
   margin: auto;
-  width: 65%;
   height: 100%;
-  padding: 0 1em 0 1em;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: space-between;
   transition: width 0.2s;
@@ -113,28 +111,27 @@ header::before {
 }
 
 nav {
-  height: 100%;
+  width: 100%;
+  flex-basis: 100%;
 }
 
 nav ul {
   display: flex;
   height: 100%;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 
 nav ul li {
-  -webkit-clip-path: polygon(16px 0, 100% 0, calc(100% - 16px) 100%, 0% 100%);
-  clip-path: polygon(16px 0, 100% 0, calc(100% - 16px) 100%, 0% 100%);
   display: flex;
   margin: 0;
-  height: 100%;
+  width: 100%;
+  height: 50px;
   flex-direction: row;
   align-items: center;
   justify-content: center;
   list-style-type: none;  
-  padding: 0 20px;
 }
 
 nav ul li:hover {
@@ -152,6 +149,7 @@ nav ul li:active {
 
 nav ul li a {
   height: 100%;
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
