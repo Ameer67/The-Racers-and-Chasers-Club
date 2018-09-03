@@ -175,8 +175,7 @@ section.home {
 section.content{
   position: relative;
   padding: 2em 1em;
-  width: 65%;
-  margin: 25vh auto 0;
+  margin: 0 10vw 0 20vw;
   flex-grow: 1;
   height: 100%;
 }

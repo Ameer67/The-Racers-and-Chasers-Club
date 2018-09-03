@@ -35,4 +35,8 @@
     </div>
 </header>
 <!-- <script src="scripts/header.js"></script> -->
-<section class="content">
+<section class="content<?php 
+if ($pageTitle == "Home") {
+    echo " home";
+};
+?>">
