@@ -73,6 +73,11 @@ a {
   color: #ff8f00;
 }
 
+ol li {
+  list-style-position: outside;
+  margin-left: 1em;
+}
+
 header {
   z-index: 10;
   height: 100vh;

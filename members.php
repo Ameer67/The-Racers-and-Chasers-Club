@@ -29,6 +29,15 @@
 <div>
     <h3>Join the club</h3>
     <p>Like what you see and interested in joining us? Please complete the steps below.</p>
+    
+    <ol>
+        <li>
+            <p>Create a <a href="https://www.gtplanet.net/">GTPlanet account</a>. Our <a href="link">thread</a> on the GTPlanet Forums allows for easy communication between club members. (It's also a good site for the latest Forza (and other racing games) news.)</p>
+        </li>
+        <li>
+            <p>Complete the application below.</p>
+        </li>
+    </ol>
     <form action="">  
         <fieldset>
             <label for="gtpaccount">
