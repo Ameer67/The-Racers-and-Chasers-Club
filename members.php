@@ -56,6 +56,11 @@
                     <option value="3">3</option>
                 </select>
             </label>
+            <label>
+            <p>Submit your answers to move onto the application.</p>
+                <button type="submit">SUBMIT</button>
+            </label>
+        
     </form>
     <form action="">
             <label for="xbl">
@@ -74,6 +79,7 @@
                  <p>Anything else you'd like to share?:</p>
                 <textarea name="share" id="share"></textarea>
             </label>
+            <button type="submit">SUBMIT</button>
     </form>
 </div>
 </section> 
