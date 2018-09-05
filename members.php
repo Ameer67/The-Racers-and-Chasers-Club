@@ -35,11 +35,10 @@
             <p>Create a <a href="https://www.gtplanet.net/">GTPlanet account</a>. Our <a href="link">thread</a> on the GTPlanet Forums allows for easy communication between club members. (It's also a good site for the latest Forza (and other racing games) news.)</p>
         </li>
         <li>
-            <p>Complete the application below.</p>
+            <p>Answer the following questions.</p>
         </li>
     </ol>
     <form action="">  
-        <fieldset>
             <label for="gtpaccount">
                <p>I have created a GTPlanet account</p>
             <input type="checkbox" name="gtpaccount" id="gtpaccount">
@@ -57,8 +56,8 @@
                     <option value="3">3</option>
                 </select>
             </label>
-        </fieldset>
-        <fieldset>
+    </form>
+    <form action="">
             <label for="xbl">
                 <p>Xbox Live Gamertag:</p>
                 <input type="text" name="xbl" id="xbl">
@@ -75,7 +74,6 @@
                  <p>Anything else you'd like to share?:</p>
                 <textarea name="share" id="share"></textarea>
             </label>
-        </fieldset>
     </form>
 </div>
 </section> 
