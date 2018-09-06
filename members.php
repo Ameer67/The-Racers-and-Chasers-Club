@@ -7,7 +7,7 @@
 </div>
 <div class="infobox noimg">
     <div>
-        <div class="infotop icongrid">
+        <div class="infotop icon grid">
             <div>
                 <h3>Current members</h3>
                 <p></p>
@@ -17,7 +17,7 @@
                 <img src="img/icons/members.png" alt="members">
             </div>
         </div>
-        <div class="infobottom pursuitgrid">
+        <div class="infobottom pursuit grid">
             <?php include("components/memberlist.php") ?>
         
         </div>

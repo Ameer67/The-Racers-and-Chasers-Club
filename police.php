@@ -7,7 +7,7 @@
 </div>
 <div class="infobox noimg">
     <div>
-        <div class="infotop icongrid">
+        <div class="infotop icon grid">
             <div>
                 <h3>Catching the criminals</h3>
                 <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
@@ -17,7 +17,7 @@
                 <img src="img/icons/binoculars.png" alt="binoculars">
             </div>
         </div>
-        <div class="infobottom pursuitgrid">
+        <div class="infobottom pursuit grid">
             <div>
                 <h4>1. Patrolling</h4>
                 <p>All on-duty police officers will be on the lookout for anyone causing trouble. Police are not allowed to continually follow anyone around unless they are doing something suspiscous.</p>
@@ -52,7 +52,7 @@
 
 <div class="infobox noimg">
     <div>
-        <div class="infotop icongrid">
+        <div class="infotop icon grid">
             <div>
                 <h3>Pursuit priorities</h3>
                 <p>Police pursuits are split into three categories depending on the status of the chase. The lead officer can help inform others by declaring the priority.</p>
@@ -62,7 +62,7 @@
                 <img src="img/icons/flame.png" alt="flame">
             </div>
         </div>
-        <div class="infobottom pursuitgrid">
+        <div class="infobottom pursuit grid">
             <div>
                 <h4>Priority 3</h4>
                 <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. <br>Example: typical traffic stop.</p>
@@ -84,7 +84,7 @@
 
 <div class="infobox noimg">
     <div>
-        <div class="infotop icongrid">
+        <div class="infotop icon grid">
             <div>
                 <h3>Police car classes</h3>
                 <p>The Lothian Police Service employs a wide variety of vehicles, each with a specific purpose.</p>
@@ -94,7 +94,7 @@
                 <img src="img/icons/police-car.png" alt="police car">
             </div>
         </div>
-        <div class="infobottom pursuitgrid">
+        <div class="infobottom pursuit grid">
             <div>
                 <h4>Cruiser</h4>
                 <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 

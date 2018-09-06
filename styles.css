@@ -239,8 +239,11 @@ section.content{
   font-size: .9em;
 }
 
-.icongrid {
+.grid {
   display: grid;
+}
+
+.icon {
   grid-template-columns: auto 64px;
   align-items: center;
 }
@@ -275,7 +278,6 @@ section.content{
 }
 
 .member {
-  display: grid;
   grid-template-columns: auto auto;
   align-items: center;
   box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
@@ -302,8 +304,7 @@ section.content{
   color: green;
 }
 
-.pursuitgrid {
-  display: grid;
+.pursuit {
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   column-gap: 2.5em;

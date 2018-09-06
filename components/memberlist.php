@@ -8,7 +8,7 @@
         $join_date = date("n/j/Y", strtotime($row["join_date"]));
         $gtp_avatar = $row["gtp_avatar"];
         echo 
-        '<div class="member">
+        '<div class="member grid">
                 <div class="memberimg" >
                     <img src="' . $gtp_avatar . '">
                 </div>
