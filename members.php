@@ -5,9 +5,9 @@
     </div>
     <p>Take a look at who's in The Racers &amp; Chasers Club</p> 
 </div>
-<div class="infobox noimg">
+<div class="infobox">
     <div>
-        <div class="infotop icon grid">
+        <div class="infotop grid">
             <div>
                 <h3>Current members</h3>
                 <p></p>

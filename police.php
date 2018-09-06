@@ -5,9 +5,9 @@
     </div>
     <p>Formed in 2018, the new Lothian Police Service protects the Lothian region and surrounding communities from the recent surge in illegal street racing. Anyone with information about any suspicious activies should contact the LPS immediately.</p> 
 </div>
-<div class="infobox noimg">
+<div class="infobox">
     <div>
-        <div class="infotop icon grid">
+        <div class="infotop grid">
             <div>
                 <h3>Catching the criminals</h3>
                 <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
@@ -50,9 +50,9 @@
     <div class="border"></div>
 </div>
 
-<div class="infobox noimg">
+<div class="infobox">
     <div>
-        <div class="infotop icon grid">
+        <div class="infotop grid">
             <div>
                 <h3>Pursuit priorities</h3>
                 <p>Police pursuits are split into three categories depending on the status of the chase. The lead officer can help inform others by declaring the priority.</p>
@@ -82,9 +82,9 @@
     <div class="border"></div>
 </div>
 
-<div class="infobox noimg">
+<div class="infobox">
     <div>
-        <div class="infotop icon grid">
+        <div class="infotop grid">
             <div>
                 <h3>Police car classes</h3>
                 <p>The Lothian Police Service employs a wide variety of vehicles, each with a specific purpose.</p>

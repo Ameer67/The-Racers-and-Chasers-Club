@@ -8,7 +8,7 @@
     Members are expected to join sessions approximately once
     every two weeks or as much as possible. All in all, we enjoy a good time.</p>
 </div>
-<div class="infobox">
+<div class="infobox withimg">
     <div>
         <div class="infotop">
             <h3>Fun</h3>
@@ -21,7 +21,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div class="infobox">
+<div class="infobox withimg">
     <div>
         <div class="infotop">
             <h3>Realistic</h3>
@@ -36,7 +36,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div class="infobox">
+<div class="infobox withimg">
     <div>
         <div class="infotop">
             <h3>Democratic</h3>

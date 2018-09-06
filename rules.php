@@ -11,7 +11,7 @@
     
 
 </div>
-<div class="infobox noimg">
+<div class="infobox">
     <div>
         <div class="infotop">
             <h3>General</h3>
@@ -35,7 +35,7 @@
     <div class="border"></div>
 </div>
 
-<div class="infobox noimg">
+<div class="infobox">
     <div>
         <div class="infotop">
             <h3>Gameplay</h3>
@@ -54,7 +54,7 @@
     <div class="border"></div>
 </div>
 
-<div class="infobox noimg">
+<div class="infobox">
     <div>
         <div class="infotop">
             <h3>Behavior</h3>
