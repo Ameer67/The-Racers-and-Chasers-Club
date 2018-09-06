@@ -15,6 +15,7 @@ html {
   font-family: 'Heebo', sans-serif;
   font-size: 18px;
   color: white;
+  overflow-x: hidden;
 }
 
 /*colors: 
@@ -375,7 +376,7 @@ footer h5 span.dateandtime {
   font-weight: bold;
 }
 
-@media (max-width: 1600px) and (min-width: 1366px) {
+@media (max-width: 1600px) and (min-width: 1200px) {
   .trigrid {
     grid-template-columns: 1fr 1fr;
   }
@@ -391,8 +392,18 @@ footer h5 span.dateandtime {
   }
 }
 
-@media (max-width: 1200px) and (min-width: 768px) {
+@media (max-width: 1200px) and (min-width: 0px) {
+  .trigrid {
+    grid-template-columns: 1fr;
+  }
+}
 
+@media (max-width: 768px) and (min-width: 400px){
+  header .logocontainer {
+    max-width: 50%;
+    padding: 0;
+    margin: 1em 0 0 0;
+  }
 }
 
 @media (max-width: 768px) and (min-width: 0px) {
@@ -459,12 +470,12 @@ footer h5 span.dateandtime {
     margin: 0;
   }
 
-}
+  .infotop {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
 
-@media (max-width: 768px) and (min-width: 400px){
-  header .logocontainer {
-    max-width: 50%;
-    padding: 0;
-    margin: 1em 0 0 0;
+  .infotop h3 {
+    text-align: center;
   }
 }
