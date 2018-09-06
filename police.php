@@ -17,7 +17,7 @@
                 <img src="img/icons/binoculars.png" alt="binoculars">
             </div>
         </div>
-        <div class="infobottom pursuit grid">
+        <div class="infobottom trigrid grid">
             <div>
                 <h4>1. Patrolling</h4>
                 <p>All on-duty police officers will be on the lookout for anyone causing trouble. Police are not allowed to continually follow anyone around unless they are doing something suspiscous.</p>
@@ -62,7 +62,7 @@
                 <img src="img/icons/flame.png" alt="flame">
             </div>
         </div>
-        <div class="infobottom pursuit grid">
+        <div class="infobottom trigrid grid">
             <div>
                 <h4>Priority 3</h4>
                 <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. <br>Example: typical traffic stop.</p>
@@ -94,7 +94,7 @@
                 <img src="img/icons/police-car.png" alt="police car">
             </div>
         </div>
-        <div class="infobottom pursuit grid">
+        <div class="infobottom trigrid grid">
             <div>
                 <h4>Cruiser</h4>
                 <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 

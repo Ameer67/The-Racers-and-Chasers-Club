@@ -17,7 +17,7 @@
                 <img src="img/icons/members.png" alt="members">
             </div>
         </div>
-        <div class="infobottom pursuit grid">
+        <div class="infobottom trigrid grid">
             <?php include("components/memberlist.php") ?>
         
         </div>

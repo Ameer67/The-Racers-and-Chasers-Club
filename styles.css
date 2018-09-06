@@ -82,6 +82,18 @@ ol li {
   display: grid;
 }
 
+.trigrid {
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  column-gap: 2.5em;
+  row-gap: 2.5em;
+  padding: 2.5em;
+}
+
+.noimg {
+  grid-template-columns: 1fr;
+}
+
 /* NAVIGATION */
 header {
   z-index: 10;
@@ -181,15 +193,12 @@ nav ul li a {
   text-decoration: none;
 }
 
-/*PAGE CONTENT*/
+/*CONTENT CONTAINER*/
 section.home {
   display: grid;
   grid-template-columns: 1fr 2fr;
-  grid-column-gap: 1em;
+  grid-column-gap: 3em;
   grid-row-gap: 1em;
-  grid-template-areas:  "intro infobox" 
-                        "intro infobox2"  
-                        "intro infobox3";
 }
 
 section.content{
@@ -202,7 +211,11 @@ section.content{
 
 /* HOME PAGE */
 .introhome {
-  grid-area: intro;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 4;
+  align-self: center;
 }
 
 /* TOP OF PAGE DESCRIPTION */
@@ -216,6 +229,10 @@ section.content{
 
 .intro h1 {
   line-height: 1.4;
+}
+
+.intro .description{
+  padding: 0 1em 0 1em;
 }
 
 /* MAIN CONTENT BOXES */
@@ -234,6 +251,12 @@ section.content{
 
 .infobox.withimg {
   grid-template-columns: 2fr 1fr;
+}
+
+.infobox .infoimg {
+  background-image: url("img/bg1.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .infotop {
@@ -264,7 +287,7 @@ section.content{
 }
 
 .infobottom {
-  padding: 1em;
+  padding: 2em;
 }
 
 .infobottom ul li{
@@ -282,6 +305,27 @@ section.content{
   color: #00a6ff;
 }
 
+.border { /* border for bottom of infobox */
+  position: absolute;
+  bottom: 0;
+  display: block;
+  height: 3px;
+  width: 100%;
+  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
+}
+
+.infobox::before { /* border for top of infobox */
+  z-index: 1;
+  content: "";
+  position: absolute;
+  top: 0;
+  display: block;
+  height: 3px;
+  width: 100%;
+  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
+}
+
+/* MEMBERS */
 .member {
   grid-template-columns: auto auto;
   align-items: center;
@@ -309,69 +353,7 @@ section.content{
   color: green;
 }
 
-.pursuit {
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: auto;
-  column-gap: 2.5em;
-  row-gap: 2.5em;
-  padding: 2.5em;
-}
-
-.infoimg {
-  background-image: url("img/bg1.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.noimg {
-  grid-template-columns: 1fr;
-}
-
-.box2 {
-  grid-area: infobox2;
-}
-
-.box3 {
-  grid-area: infobox3;
-}
-
-.intro .description{
-  padding: 0 1em 0 1em;
-}
-.description {
-  padding: 1em;
-}
-
-.infopic {
-  background: url("https://news.xbox.com/en-us/wp-content/uploads/Forza-Horizon-4_Autumn-Drive-1.jpg");
-  background-size: cover;
-  background-position: center;
-}
-
-.infopic img {
-  max-height: 100%;
-}
-
-.border {
-  position: absolute;
-  bottom: 0;
-  display: block;
-  height: 3px;
-  width: 100%;
-  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-}
-
-.infobox::before { /* border for top of infobox */
-  z-index: 1;
-  content: "";
-  position: absolute;
-  top: 0;
-  display: block;
-  height: 3px;
-  width: 100%;
-  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-}
-
+/* POLICE */
 .policelogocontainer {
   width: 200px;
   margin-bottom: .75em;
@@ -394,7 +376,9 @@ footer h5 span.dateandtime {
 }
 
 @media (max-width: 1600px) and (min-width: 1366px) {
-
+  .trigrid {
+    grid-template-columns: 1fr 1fr;
+  }
 }
 
 @media (max-width: 1366px) and (min-width: 768px) {
