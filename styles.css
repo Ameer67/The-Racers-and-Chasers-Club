@@ -217,6 +217,8 @@ section.content{
   grid-row-start: 1;
   grid-row-end: 4;
   align-self: center;
+  background-color: rgba(0, 0, 0, .25);
+  padding: 2em;
 }
 
 /* TOP OF PAGE DESCRIPTION */
@@ -382,6 +384,19 @@ footer h5 span.dateandtime {
   }
 }
 
+@media (max-width: 1600px) and (min-width: 0px) {
+  section.home {
+    grid-template-columns: 1fr;
+  }
+  
+  .introhome {
+    grid-column-start: initial;
+    grid-column-end: initial;
+    grid-row-start: initial;
+    grid-row-end: initial;
+  }
+}
+
 @media (max-width: 1366px) and (min-width: 768px) {
   header {
     width: 25vw;
@@ -470,6 +485,11 @@ footer h5 span.dateandtime {
     margin: 0;
   }
 
+  .intro {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
   .infotop {
     grid-template-columns: 1fr;
     justify-items: center;
@@ -477,5 +497,10 @@ footer h5 span.dateandtime {
 
   .infotop h3 {
     text-align: center;
+  }
+
+  .icon {
+    width: 48px;
+    height: 48px;
   }
 }
