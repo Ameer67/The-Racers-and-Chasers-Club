@@ -120,7 +120,7 @@
             <div>
                 <h4>SWAT</h4>
                 <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions and are immune to the 100 mph collision rule, but once it rolls, the truck is totaled.
-                <br> Restrictions: only 1 allowed during priority 1 pursuit.</p>
+                <br> Restrictions: only 1 allowed after 10+ minute pursuit and priority 1.</p>
             </div>
             <div>
                 <h4>Ambulance</h4>
