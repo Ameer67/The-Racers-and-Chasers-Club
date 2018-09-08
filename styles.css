@@ -295,7 +295,7 @@ section.content{
 
 .infobottom ul li{
   list-style-type: disc;
-  margin: 0 1em 1em 1em;
+  margin: .5em 1em 1em 1em;
 }
 
 .infobottom ol li {
@@ -330,6 +330,11 @@ section.content{
   height: 3px;
   width: 100%;
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
+}
+
+/* SESSIONS + GAME MODES */
+.modeinfo {
+  margin-bottom: 1em;
 }
 
 /* MEMBERS */

@@ -11,22 +11,22 @@
             <h3>Open Patrol</h3>
         </div>
         <div class="infobottom">
-            <div>
+            <div class="modeinfo">
                 <h4>Objective</h4>
                 <p><span>Racers:</span> Roam around the streets causing havoc and avoid getting busted.</p>
                 <p><span>Cops:</span> Be on the lookout for anyone causing trouble and bust them immediately.</p>
             </div>
-            <div>
+            <div class="modeinfo">
                 <h4>How it works</h4>
                 <p>One person is assigned to be a racer, and everyone else is a cop. (If there are 8+ players, two racers are allowed simultaneously.) See the <a href="police.php">"Catching the criminals"</a> section to see how pursuits work and when a racer is considered busted. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
             </div>
-            <div>
+            <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
                 <ul>
                     <li>Gameplay boundaries are limited to a specific area (ex: Edinburgh) that will be stated beforehand.</li>
-                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all.</li>
+                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless ambulance).</li>
                     <li>Only 1 drone is allowed at a time and only for 5 minutes. There is a 2-minute cooldown period if that officer wants to resume using the drone.</li>
-                    <li>Only lead unit and/or dispatcher should call out pursuit priority and location.</li>
+                    <li>Only the lead unit and/or dispatcher should call out pursuit priority and location.</li>
                 </ul>
             </div>
         </div>
