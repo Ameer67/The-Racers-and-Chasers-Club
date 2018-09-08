@@ -14,7 +14,7 @@
             </div>
             
             <div class="icon">
-                <img src="img/icons/binoculars.png" alt="binoculars">
+                <img src="img/icons/handcuffs.png" alt="handcuffs">
             </div>
         </div>
         <div class="infobottom trigrid grid">

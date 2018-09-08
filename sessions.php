@@ -7,8 +7,11 @@
 </div>
 <div class="infobox">
     <div>
-        <div class="infotop">
+        <div class="infotop grid">
             <h3>Open Patrol</h3>
+            <div class="icon">
+                <img src="img/icons/binoculars.png" alt="binoculars">
+            </div>
         </div>
         <div class="infobottom">
             <div class="modeinfo">
