@@ -79,10 +79,6 @@ ol li {
   margin-left: 1em;
 }
 
-span {
-  font-weight: bold;
-}
-
 .grid {
   display: grid;
 }
@@ -310,6 +306,10 @@ section.content{
 
 .infobottom h4 {
   color: #00a6ff;
+}
+
+.infobottom span {
+  font-weight: bold;
 }
 
 .border { /* border for bottom of infobox */
