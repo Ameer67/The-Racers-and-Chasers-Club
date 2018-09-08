@@ -79,6 +79,10 @@ ol li {
   margin-left: 1em;
 }
 
+span {
+  font-weight: bold;
+}
+
 .grid {
   display: grid;
 }
@@ -374,10 +378,6 @@ footer {
   text-align: center;
 }
 
-footer h5 span.dateandtime {
-  font-weight: bold;
-}
-
 @media (max-width: 1600px) and (min-width: 1200px) {
   .trigrid {
     grid-template-columns: 1fr 1fr;
@@ -388,7 +388,7 @@ footer h5 span.dateandtime {
   section.home {
     grid-template-columns: 1fr;
   }
-  
+
   .introhome {
     grid-column-start: initial;
     grid-column-end: initial;
