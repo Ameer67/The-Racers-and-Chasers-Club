@@ -40,8 +40,11 @@
 </div>
 <div class="infobox">
     <div>
-        <div class="infotop">
+        <div class="infotop grid">
             <h3>Duel</h3>
+            <div class="icon">
+                <img src="img/icons/twocars.png" alt="twocars">
+            </div>
         </div>
         <div class="infobottom">
             <div class="modeinfo">
