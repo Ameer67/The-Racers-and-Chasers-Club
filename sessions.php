@@ -87,6 +87,14 @@
             </div>
         </div>
         <div class="infobottom trigrid grid">
+            <div class="session grid">
+                <div class="sessionheader grid">
+                    <div class="sessionclass">S1</div>
+                    <div class="sessionmode">Open Patrol</div>
+                </div>
+                <h4>Saturday August 20, 2018 5:00 pm</h4>
+                <p>Hosted by Ameer67</p>
+            </div>
             <?php include("components/sessionslist.php") ?>
         </div>
     </div>

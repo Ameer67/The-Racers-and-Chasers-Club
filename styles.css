@@ -337,6 +337,35 @@ section.content{
   margin-bottom: 1em;
 }
 
+.session {
+  align-items: center;
+  box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
+  border-radius: .5em;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 1em;
+}
+
+.sessionheader {
+  width: calc(100% + 2em);
+  background: rgba(0, 0, 0, .25);
+  margin: -1em 1em .5em -1em;
+  border-radius: .5em .5em 0 0;
+  grid-template-columns: 20% auto;
+  align-items: center;
+  text-transform: uppercase;
+}
+
+.sessionclass {
+  background: orange;
+  padding: .5em;
+  border-top-left-radius: .5em;
+  text-align: center;
+}
+
+.sessionmode {
+  text-align: center;
+}
+
 /* MEMBERS */
 .member {
   grid-template-columns: auto auto;

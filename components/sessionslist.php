@@ -5,6 +5,9 @@
     while($row = mysqli_fetch_array($sessionsquery)){
         $session_datetime = $row["session_datetime"];
         $session_host = $row["session_host"];
-        echo $session_datetime;
+        echo 
+        '<div class="session grid">'
+        . $session_datetime . 
+        '</div>';
     }
 ?>
