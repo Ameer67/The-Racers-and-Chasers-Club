@@ -92,8 +92,11 @@
                     <div class="sessionclass">S1</div>
                     <div class="sessionmode">Open Patrol</div>
                 </div>
-                <h4>Saturday August 20, 2018 5:00 pm</h4>
-                <p>Hosted by Ameer67</p>
+                <div class="sessioninfo">
+                    <h4 class="date">August 20, 2018 <span class="time">at 5:30 PM</span></h4>
+                    <p>Hosted by Ameer67</p>
+                </div>
+                
             </div>
             <?php include("components/sessionslist.php") ?>
         </div>
