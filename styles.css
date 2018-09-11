@@ -37,7 +37,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Thud W01 Medium";
+  font-family: 'Abel', sans-serif;
+  font-weight: bold;
   text-transform: uppercase;
   font-style: italic;
 }
@@ -67,7 +68,7 @@ h6 {
 }
 
 p {
-  line-height: 2;
+  line-height: 1.75;
 }
 
 a {
@@ -186,9 +187,9 @@ nav ul li a {
   justify-content: center;
   color: white;
   text-align: center;
-  text-transform: lowercase;
+  text-transform: uppercase;
   font-style: italic;
-  font-family: "Thud W01 Medium";
+  font-family: 'Abel', sans-serif;
   font-size: 1.25em;
   text-shadow: 0px 0px 3px black;
   text-decoration: none;
@@ -271,7 +272,7 @@ section.content{
 }
 
 .infotop h3 {
-  color: white;
+  color: #ff8f00;
 }
 
 .infotop p {
