@@ -346,6 +346,10 @@ section.content{
   padding: 1em;
 }
 
+.complete {
+  opacity: .5;
+}
+
 .sessionheader {
   width: calc(100% + 2em);
   background: rgba(0, 0, 0, .25);
