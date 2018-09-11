@@ -70,6 +70,12 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
+<div class="intro">
+    <div>
+        <h1>Sessions</h1>
+    </div>
+    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended.</p> 
+</div>
 </section> 
 </body> 
 </html>
