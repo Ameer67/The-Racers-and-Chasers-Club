@@ -3,7 +3,7 @@
     <div>
         <h1>Game modes</h1>
     </div>
-    <p>Formed in 2018, the new Lothian Police Service protects the Lothian region and surrounding communities from the recent surge in illegal street racing. Anyone with information about any suspicious activies should contact the LPS immediately.</p> 
+    <p>Two game modes, two times the action. </p> 
 </div>
 <div class="infobox">
     <div>
