@@ -8,7 +8,11 @@
 <div class="infobox">
     <div>
         <div class="infotop grid">
-            <h3>Open Patrol</h3>
+            <div>
+                <h3>Open Patrol</h3>
+                <p>Hide and seek - big boy version.</p>
+            </div>
+            
             <div class="icon">
                 <img src="img/icons/binoculars.png" alt="binoculars">
             </div>
@@ -41,7 +45,10 @@
 <div class="infobox">
     <div>
         <div class="infotop grid">
-            <h3>Duel</h3>
+            <div>
+                <h3>Duel</h3>
+                <p>Run away from the cops <span style="font-style:italic;">and</span> &nbsp;win the race.</p>
+            </div>
             <div class="icon">
                 <img src="img/icons/twocars.png" alt="twocars">
             </div>
@@ -81,23 +88,16 @@
 <div class="infobox">
     <div>
         <div class="infotop grid">
-            <h3>67 Sessions hosted so far</h3>
+            <div>
+                <h3>Upcoming sessions</h3>
+                <p>We've hosted 67 lobbies so far!</p>
+            </div>
             <div class="icon">
                 <img src="img/icons/calendar.png" alt="calendar">
             </div>
         </div>
         <div class="infobottom trigrid grid">
-            <div class="session grid">
-                <div class="sessionheader grid">
-                    <div class="sessionclass">S1</div>
-                    <div class="sessionmode">Open Patrol</div>
-                </div>
-                <div class="sessioninfo">
-                    <h4 class="date">August 20, 2018 <span class="time">at 5:30 PM</span></h4>
-                    <p>Hosted by Ameer67</p>
-                </div>
-                
-            </div>
+            
             <?php include("components/sessionslist.php") ?>
         </div>
     </div>
