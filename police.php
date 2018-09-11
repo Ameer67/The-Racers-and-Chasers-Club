@@ -35,11 +35,11 @@
                 <p>Police must surround the racer for at least 10 seconds to be considered caught. If police lose visual contact for 2 minutes, the racer has successfully evaded.</p>
             </div>
             <div>
-                <h4>4B. Racer first try bust</h4>
-                <p> If the chase lasted 10+ minutes, reached priority 1, and/or the SWAT team was called in, racers do NOT get a second try. Otherwise, move to 4C.</p>
+                <h4>5A. Racer first try bust</h4>
+                <p> If the chase lasted 10+ minutes, reached priority 1, and/or the SWAT team was called in, racers do NOT get a second try. Otherwise, move to 5B.</p>
             </div>
             <div>
-                <h4>4C. Racer second try bust (if applicable)</h4>
+                <h4>5B. Racer second try bust (if applicable)</h4>
                 <p>The racer's turn is up, regardless of whether or not the conditions previously stated were met.</p>
             </div>
         

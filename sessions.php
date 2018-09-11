@@ -54,7 +54,7 @@
             </div>
             <div class="modeinfo">
                 <h4>How it works</h4>
-                <p>The host of the lobby will set a group destination (the finish line) on the map. Two people are assigned to be racers, and everyone else is a cop. See the <a href="police.php">"Catching the criminals"</a> section to see how pursuits work and when a racer is considered busted. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
+                <p>The host of the lobby will set a group destination (the finish line) on the map. Two people are assigned to be racers, and everyone else is a cop. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
             </div>
             <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
@@ -62,6 +62,8 @@
                     <li>Racers MUST follow fixed a route. Cops do not have to follow it.</li>
                     <li>Fast traveling is prohibited once the race starts.</li>
                     <li>Minimap and names above cars are allowed.</li>
+                    <li>Pursuit priorities do not apply.</li>
+                    <li>SWAT vehicles are not allowed.</li>
                 </ul>
             </div>
         </div>
