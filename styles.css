@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Heebo');
+@import url('https://fonts.googleapis.com/css?family=Abel');
 @font-face {font-family: "Thud W01 Medium";
   src: url("fonts/a3ce78873e546adb7abdd54098f4d6b1.eot"); /* IE9*/
   src: url("fonts/a3ce78873e546adb7abdd54098f4d6b1.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
@@ -12,8 +12,8 @@ html {
   height: 100%;
   background-image: linear-gradient(#00060b, #272d32);
   background-attachment: fixed;
-  font-family: 'Heebo', sans-serif;
-  font-size: 18px;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
   color: white;
   overflow-x: hidden;
 }
