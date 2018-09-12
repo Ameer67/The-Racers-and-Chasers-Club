@@ -410,6 +410,13 @@ section.content{
   color: green;
 }
 
+/* APPLICATION FORM */
+form {
+  padding: 1em;
+  border-radius: .5em;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
 /* POLICE */
 .policelogocontainer {
   width: 200px;
