@@ -106,5 +106,6 @@
     <div class="border"></div>
 </div>
 </section> 
+<script src="scripts/sessionClass.js" type="text/javascript"></script>
 </body> 
 </html>
