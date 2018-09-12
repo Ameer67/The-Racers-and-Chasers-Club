@@ -3,7 +3,7 @@
     <div>
         <h1>Members of the club</h1>
     </div>
-    <p>Take a look at who's in The Racers &amp; Chasers Club</p> 
+    <p>Take a look at who you'll be racing or chasing.</p> 
 </div>
 <div class="infobox">
     <div>
