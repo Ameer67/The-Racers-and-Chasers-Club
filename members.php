@@ -59,9 +59,8 @@
             </label>
             <label>
             <p>Submit your answers to move onto the application.</p>
-                <button type="submit">SUBMIT</button>
+                <button type="button" id="quizsubmit">hey</button>
             </label>
-        
     </form>
     <form id="application">
             <label for="xbl">
@@ -84,5 +83,6 @@
     </form>
 </div>
 </section> 
+<script src="scripts/quiz.js"></script>
 </body> 
 </html>
