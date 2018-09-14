@@ -417,6 +417,10 @@ form {
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
+#application {
+  display: none;
+}
+
 /* POLICE */
 .policelogocontainer {
   width: 200px;
