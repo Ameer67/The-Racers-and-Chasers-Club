@@ -38,18 +38,19 @@
             <p>Answer the following questions.</p>
         </li>
     </ol>
-    <form action="">  
+    <form id="quiz">  
             <label for="gtpaccount">
                <p>I have created a GTPlanet account</p>
-            <input type="checkbox" name="gtpaccount" id="gtpaccount">
+            <input type="checkbox" name="gtpaccount" id="gtpaccount" required>
             </label>
             <label for="mic">
                    <p>I have a microphone</p>
-               <input type="checkbox" name="mic" id="mic">
+               <input type="checkbox" name="mic" id="mic" required>
             </label>
              <label for="stealthunits">
                   <p>How many stealth units are allowed on duty?</p>
-                <select name="stealthunits" id="stealthunits">
+                <select name="stealthunits" id="stealthunits" required>
+                    <option value=""></option>
                     <option value="0">0</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
@@ -62,7 +63,7 @@
             </label>
         
     </form>
-    <form action="">
+    <form id="application">
             <label for="xbl">
                 <p>Xbox Live Gamertag:</p>
                 <input type="text" name="xbl" id="xbl">
