@@ -26,7 +26,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div>
+<div class="formcontainer">
     <h3>Join the club</h3>
     <p>Like what you see and interested in joining us? Please complete the steps below.</p>
     
@@ -41,27 +41,32 @@
     <form id="quiz">  
             <label for="gtpaccount">
                <p>I have created a GTPlanet account</p>
-            <input type="checkbox" name="gtpaccount" id="gtpaccount" required>
+            <input type="checkbox" name="gtpaccount" id="gtpaccount">
             </label>
             <label for="mic">
                    <p>I have a microphone</p>
-               <input type="checkbox" name="mic" id="mic" required>
+               <input type="checkbox" name="mic" id="mic">
             </label>
              <label for="stealthunits">
                   <p>How many stealth units are allowed on duty?</p>
-                <select name="stealthunits" id="stealthunits" required>
+                <select name="stealthunits" id="stealthunits">
                     <option value=""></option>
-                    <option value="0">0</option>
+                    <option value="0">67</option>
                     <option value="1">1</option>
                     <option value="2">2</option>
                     <option value="3">3</option>
                 </select>
             </label>
             <label>
-            <p>Submit your answers to move onto the application.</p>
-                <button type="button" id="quizsubmit">hey</button>
+            <p>Submit your answers to move onto the next step.</p>
+                <button type="button" id="quizsubmit">Submit</button>
             </label>
     </form>
+    <ol start="3">
+        <li>
+            <p>Now fill out your information.</p>
+        </li>
+    </ol>
     <form id="application">
             <label for="xbl">
                 <p>Xbox Live Gamertag:</p>
@@ -79,7 +84,21 @@
                  <p>Anything else you'd like to share?:</p>
                 <textarea name="share" id="share"></textarea>
             </label>
-            <button type="submit">SUBMIT</button>
+            <label>
+            <p>Press submit to move onto the next step.</p>
+                <button type="button" id="applicationsubmit">Submit</button>
+            </label>
+    </form>
+    <ol start="4">
+        <li>
+            <p>Finally, copy the below information, <a href="https://www.gtplanet.net/forum/conversations/add?to=Ameer67">create a conversation with Ameer67 on GTPlanet,</a> and paste it into the text box. The title should be something like "Club application," "TR&amp;CC application," etc.</p>
+        </li>
+    </ol>
+    <form id="applicationresults">
+        <p>Xbox Live Gamertag: </p>
+        <p>Timezone: </p>
+        <p>How did you discover this club?: </p>
+        <p>Anything else you'd like to share?: </p>
     </form>
 </div>
 </section> 

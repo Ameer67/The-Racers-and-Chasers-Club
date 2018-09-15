@@ -411,13 +411,19 @@ section.content{
 }
 
 /* APPLICATION FORM */
+.formcontainer {
+  padding: 2em;
+  background-color: rgba(0, 0, 0, .25);
+}
+
 form {
   padding: 1em;
+  margin: 1em 0 1em 0;
   border-radius: .5em;
   border: 1px solid rgba(255, 255, 255, 0.25);
 }
 
-#application {
+#application, #applicationresults {
   display: none;
 }
 
