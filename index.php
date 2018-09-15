@@ -6,7 +6,7 @@
     fun, realistic, and democratic. Forza Horizon 4 is where club sessions are hosted
     (which are typically held on Fridays and weekends). 
     Members are expected to join sessions approximately once
-    every two weeks or as much as possible. All in all, we enjoy a good time.</p>
+    every two weeks or as much as possible. Take a look around the site and <a href="members.php">sign up</a> once you're ready!</p>
 </div>
 <div class="infobox withimg">
     <div>

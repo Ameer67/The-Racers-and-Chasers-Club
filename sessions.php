@@ -90,7 +90,7 @@
         <div class="infotop grid">
             <div>
                 <h3>Upcoming sessions</h3>
-                <p>We've hosted 67 lobbies so far!</p>
+                <p>We've hosted <span class="sessioncount">67</span> lobbies so far!</p>
             </div>
             <div class="icon">
                 <img src="img/icons/calendar.png" alt="calendar">
@@ -107,5 +107,6 @@
 </div>
 </section> 
 <script src="scripts/sessionClass.js" type="text/javascript"></script>
+<script src="scripts/sessionCount.js" type="text/javascript"></script>
 </body> 
 </html>
