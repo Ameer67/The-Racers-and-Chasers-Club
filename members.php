@@ -28,7 +28,7 @@
 </div>
 <div class="formcontainer">
     <h3>Join the club</h3>
-    <p>Like what you see and interested in joining us? Please complete the steps below.</p>
+    <p>Like what you see and interested in joining us? After you've taken a good look around the site, please complete the steps below.</p>
     
     <ol>
         <li>
@@ -62,7 +62,7 @@
                 <button type="button" id="quizsubmit">Submit</button>
             </label>
     </form>
-    <ol start="3">
+    <ol start="3" id="applicationstep3">
         <li>
             <p>Now fill out your information.</p>
         </li>
@@ -89,9 +89,9 @@
                 <button type="button" id="applicationsubmit">Submit</button>
             </label>
     </form>
-    <ol start="4">
+    <ol start="4" id="applicationstep4">
         <li>
-            <p>Finally, copy the below information, <a href="https://www.gtplanet.net/forum/conversations/add?to=Ameer67">create a conversation with Ameer67 on GTPlanet,</a> and paste it into the text box. The title should be something like "Club application," "TR&amp;CC application," etc.</p>
+            <p>Finally, copy the below information, <a href="https://www.gtplanet.net/forum/conversations/add?to=Ameer67">create a conversation with Ameer67 on GTPlanet,</a> and paste it into the text box. Set the title to something like "Club application," "TR&amp;CC application," etc.</p>
         </li>
     </ol>
     <form id="applicationresults">
