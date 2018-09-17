@@ -430,6 +430,17 @@ form {
 #application, #applicationresults, #applicationstep3, #applicationstep4 {
   display: none;
 }
+button {
+  width: 100px;
+  height: 30px;
+  color: white;
+  border: 0;
+  background: rgba(0, 0, 0, .75);
+}
+
+button:hover {
+  border-bottom: 3px solid #ff8f00;
+}
 
 /* POLICE */
 .policelogocontainer {
