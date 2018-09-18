@@ -57,7 +57,7 @@
                     <option value="3">3</option>
                 </select>
             </label>
-            <label>
+            <label for="">
             <p>Submit your answers to move onto the next step.</p>
                 <button type="button" id="quizsubmit">Submit</button>
             </label>
@@ -84,7 +84,7 @@
                  <p>Anything else you'd like to share?:</p>
                 <textarea name="share" id="share"></textarea>
             </label>
-            <label>
+            <label for="">
             <p>Press submit to move onto the next step.</p>
                 <button type="button" id="applicationsubmit">Submit</button>
             </label>
