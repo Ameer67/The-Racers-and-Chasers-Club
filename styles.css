@@ -460,8 +460,12 @@ button:hover {
 }
 
 .policecar {
+  display: grid;
+  grid-template-rows: auto;
   border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: .5em;
+  position: relative;
+  height: 100%;
 }
 
 .policecar .carinfo {
@@ -471,6 +475,7 @@ button:hover {
 .policecar .carimg {
   width: 100%;
   height: 200px;
+  align-self: end;
   background-image: url("https://www.gtplanet.net/forum/attachments/18-09-2018_18-45-15-jpg.766904/");
   background-size: cover;
   background-position: 0 50%;

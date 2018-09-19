@@ -96,40 +96,53 @@
         </div>
         <div class="infobottom trigrid grid">
             <div class="policecar">
-                <div class="carinfo"><h4>Cruiser</h4>
-                <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
-                <br> Restrictions: none.
-                </p></div>
-                <div class="carimg">
+                <div class="carinfo">
+                    <h4>Cruiser</h4>
+                    <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
+                    <br> Restrictions: none.</p>
                 </div>
+                <div class="carimg"></div>
             </div>
-            <div>
-                <h4>Rhino</h4>
-                <p>This class consists of SUVs and pickups made for ramming racers off the road and are allowed to perform a head-on hit to take them out.
-                <br> Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Rhino</h4>
+                    <p>This class consists of SUVs and pickups made for ramming racers off the road and are allowed to perform a head-on hit to take them out. 
+                    <br> Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
+                </div>
+                <div class="carimg"></div>
             </div>
-            <div>
-                <h4>Stealth</h4>
-                <p>Stealth units use the main LPS livery, but darkened. These cars are not allowed to initiate pursuits, but are allowed to tip off other officers and join chases already in progress.
-                <br> Restrictions: only 1 allowed on-duty.
-                </p>
-            </div> 
-            <div>
-                <h4>Enforcer</h4>
-                <p>This unit is allowed to be tuned one class above the lobby's limit, but must sit at the HQ or side of the road until a pursuit reaches priority 1. In their downtime, they are allowed to deploy a drone and act as a dispatcher if need be.
-                <br> Restrictions: only 1 allowed on-duty and lobby needs to have 6+ players.</p>
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Cruiser</h4>
+                    <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
+                    <br> Restrictions: none.</p>
+                </div>
+                <div class="carimg"></div>
             </div>
-            <div>
-                <h4>SWAT</h4>
-                <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions and are immune to the 100 mph collision rule, but once it rolls, the truck is totaled.
-                <br> Restrictions: only 1 allowed after 10+ minute pursuit and priority 1.</p>
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Cruiser</h4>
+                    <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
+                    <br> Restrictions: none.</p>
+                </div>
+                <div class="carimg"></div>
             </div>
-            <div>
-                <h4>Ambulance</h4>
-                <p>Though it is technically not a police car, the ambulance is a useful vehicle for the LPS to own. Its main purpose is to revive totalled officers by waiting near them for 5 seconds.
-                <br> Restrictions: only 1 allowed on-duty and lobby needs to have 8+ players. Tuned up to D class.
-                </p>
-            </div> 
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Cruiser</h4>
+                    <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
+                    <br> Restrictions: none.</p>
+                </div>
+                <div class="carimg"></div>
+            </div>
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Cruiser</h4>
+                    <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
+                    <br> Restrictions: none.</p>
+                </div>
+                <div class="carimg"></div>
+            </div>
         </div>
     </div>
     
