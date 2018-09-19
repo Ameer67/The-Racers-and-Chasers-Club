@@ -436,9 +436,11 @@ button {
   color: white;
   border: 0;
   background: rgba(0, 0, 0, .75);
+  cursor: pointer;
 }
 
 button:hover {
+  border-top: 3px solid transparent;
   border-bottom: 3px solid #ff8f00;
 }
 
