@@ -269,6 +269,7 @@ section.content{
   background-image: url("img/bg1.jpg");
   background-size: cover;
   background-position: center;
+  border-radius: 0 .5em 0 0;
 }
 
 .infotop {
@@ -308,12 +309,6 @@ section.content{
   margin: .5em 1em 1em 1em;
 }
 
-.infobottom ol li {
-  margin: 0 1em 0 1em;
-  font-family: "Thud W01 Medium";
-  font-style: italic;
-}
-
 .infobottom h4 {
   color: #00a6ff;
 }
@@ -327,7 +322,7 @@ section.content{
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
 }
 
-/* .infobox::before { /* border for top of infobox */
+/* .infobox::before { 
   z-index: 1;
   content: "";
   position: absolute;
@@ -420,10 +415,6 @@ section.content{
 }
 
 /* APPLICATION FORM */
-.formcontainer {
-  padding: 2em;
-  background-color: rgba(0, 0, 0, .25);
-}
 
 form {
   padding: 1em;
@@ -443,6 +434,7 @@ button {
   border: 0;
   background: rgba(0, 0, 0, .75);
   cursor: pointer;
+  border-radius: .5em;
 }
 
 button:hover {
