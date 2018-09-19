@@ -253,12 +253,12 @@ section.content{
   width: 100%;
   display: grid;
   grid-template-columns: 2fr;
-  border-left: 3px solid #ff8f00;
-  border-right: 3px solid #00a6ff;
+  /* border-left: 3px solid #ff8f00;
+  border-right: 3px solid #00a6ff; */
   background: #ffffff14;
-  box-shadow: 0 0px 5px rgba(255, 255, 255, 0.4), 
-  inset 0 0 20px rgba(0, 0, 0, .75);
+  box-shadow: 0 0px 5px rgba(0, 0, 0, 0.4);
   margin-bottom: 2em;
+  border-radius: .5em .5em 0 0;
 }
 
 .infobox.withimg {
@@ -277,6 +277,7 @@ section.content{
   position: relative;
   grid-template-columns: auto 64px;
   align-items: center;
+  border-radius: .5em .5em 0 0;
 }
 
 .infotop h3 {
@@ -326,7 +327,7 @@ section.content{
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
 }
 
-.infobox::before { /* border for top of infobox */
+/* .infobox::before { /* border for top of infobox */
   z-index: 1;
   content: "";
   position: absolute;
@@ -335,7 +336,7 @@ section.content{
   height: 3px;
   width: 100%;
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-}
+} */
 
 /* SESSIONS + GAME MODES */
 .modeinfo {
