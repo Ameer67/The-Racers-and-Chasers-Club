@@ -95,11 +95,13 @@
             </div>
         </div>
         <div class="infobottom trigrid grid">
-            <div>
-                <h4>Cruiser</h4>
+            <div class="policecar">
+                <div class="carinfo"><h4>Cruiser</h4>
                 <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
                 <br> Restrictions: none.
-                </p>
+                </p></div>
+                <div class="carimg">
+                </div>
             </div>
             <div>
                 <h4>Rhino</h4>
