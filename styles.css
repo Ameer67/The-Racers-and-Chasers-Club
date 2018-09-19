@@ -195,6 +195,14 @@ nav ul li a {
   text-decoration: none;
 }
 
+nav ul li#signup {
+  background-color: #ffffff14;
+}
+
+nav ul li#signup a {
+  color: #00a6ff;
+}
+
 /*CONTENT CONTAINER*/
 section.home {
   display: grid;
