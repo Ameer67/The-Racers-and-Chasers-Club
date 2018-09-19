@@ -1,9 +1,8 @@
 <?php include("components/headnav.php"); ?>
 <div class="intro">
     <div>
-        <h1>Members of the club</h1>
+        <h1>Who's In</h1>
     </div>
-    <p>Take a look at who you'll be racing or chasing.</p> 
 </div>
 <div class="infobox">
     <div>

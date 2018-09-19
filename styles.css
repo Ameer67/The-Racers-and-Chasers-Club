@@ -430,6 +430,7 @@ form {
 #application, #applicationresults, #applicationstep3, #applicationstep4 {
   display: none;
 }
+
 button {
   width: 100px;
   height: 30px;
