@@ -309,10 +309,6 @@ section.content{
   color: #00a6ff;
 }
 
-.infobottom span {
-  font-weight: bold;
-}
-
 .border { /* border for bottom of infobox */
   position: absolute;
   bottom: 0;
