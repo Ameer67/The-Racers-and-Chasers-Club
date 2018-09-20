@@ -46,7 +46,7 @@
                     <p>Answer the following questions.</p>
                 </li>
             </ol>
-            <form id="quiz">  
+            <form id="quiz"><div>  
                 <label for="gtpaccount">
                     <p>I have created a GTPlanet account</p>
                     <input type="checkbox" name="gtpaccount" id="gtpaccount">
@@ -69,7 +69,7 @@
                     <p>Submit your answers to move onto the next step.</p>
                     <button type="button" id="quizsubmit">Submit</button>
                 </label>
-            </form>
+            </div></form>
             <ol start="3" id="applicationstep3">
                 <li>
                     <p>Now fill out your information.</p>

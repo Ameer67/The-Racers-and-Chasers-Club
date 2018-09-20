@@ -41,6 +41,8 @@
         </footer>
     </div>
 </header>
+<div class="banner">
+</div>
 <section class="content<?php 
 if ($pageTitle == "Home") {
     echo " home";
