@@ -30,7 +30,7 @@
             <li><a href="members.php"><span>members</span></a></li>
             <li><a href="police.php"><span>police</span></a></li>
             <li><a href="#"><span>thread</span></a></li>
-            <li id="signup"><a href="members.php"><span>sign up</span></a></li>
+            <li id="signup"><a href="members.php#join"><span>sign up</span></a></li>
             </ul>
         </nav>
         <!-- <footer>

@@ -227,11 +227,11 @@ section.content{
 
 /* HOME PAGE */
 .introhome {
+  height: fit-content;
   grid-column-start: 1;
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 4;
-  align-self: center;
   background-color: rgba(0, 0, 0, .25);
   padding: 2em;
 }

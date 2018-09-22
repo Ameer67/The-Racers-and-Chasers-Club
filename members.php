@@ -25,7 +25,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div class="infobox">
+<div class="infobox" id="join">
     <div>
         <div class="infotop grid">
             <div>
