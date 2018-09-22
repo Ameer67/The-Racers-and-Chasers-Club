@@ -219,7 +219,7 @@ section.home {
 
 section.content{
   position: relative;
-  padding: 2em 1em;
+  padding: 1em;
   margin: 0 5vw 0 25vw;
   flex-grow: 1;
   height: 100%;
