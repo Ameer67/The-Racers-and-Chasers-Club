@@ -33,12 +33,12 @@
             <li id="signup"><a href="members.php"><span>sign up</span></a></li>
             </ul>
         </nav>
-        <footer>
+        <!-- <footer>
             <h5>
                 <span class="dateandtime">
                 <?php echo date('F j, Y g:i a');?></span> <br> Chicago - Central Time
             </h5>
-        </footer>
+        </footer> -->
     </div>
 </header>
 <div class="banner">
