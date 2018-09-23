@@ -18,12 +18,13 @@
 <?php include("dbsettings.php") ?>
 <body>
 <div class="sidenav">
-    <div class="logonavcontainer">
-        <div class="logocontainer">
-            <a href="index.php"><img class="logo" src="img/TR&amp;CC_main_shadow.png"></a>
-        </div>
-        <nav>
-            <ul>
+    <div class="logocontainer">
+        <a href="index.php">
+            <img class="logo" src="img/TR&amp;CC_main_shadow.png">
+        </a>
+    </div>
+    <nav>
+        <ul>
             <li><a href="index.php"><span>home</span></a></li>
             <li><a href="sessions.php"><span>sessions</span></a></li>
             <li><a href="rules.php"><span>rules</span></a></li>
@@ -31,15 +32,14 @@
             <li><a href="police.php"><span>police</span></a></li>
             <li><a href="#"><span>thread</span></a></li>
             <li id="signup"><a href="members.php#join"><span>sign up</span></a></li>
-            </ul>
-        </nav>
-        <footer>
-            <h5>
-                <span class="dateandtime">
-                <?php echo date('F j, Y g:i a');?></span> <br> Chicago - Central Time
-            </h5>
-        </footer>
-    </div>
+        </ul>
+    </nav>
+    <footer>
+        <h5>
+            <span class="dateandtime">
+            <?php echo date('F j, Y g:i a');?></span> <br> Chicago - Central Time
+        </h5>
+    </footer>
 </div>
 <div class="banner">
 </div>
