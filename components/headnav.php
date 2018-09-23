@@ -17,7 +17,7 @@
 </head>
 <?php include("dbsettings.php") ?>
 <body>
-<header>
+<div class="sidenav">
     <div class="logonavcontainer">
         <div class="logocontainer">
             <a href="index.php"><img class="logo" src="img/TR&amp;CC_main_shadow.png"></a>
@@ -33,14 +33,14 @@
             <li id="signup"><a href="members.php#join"><span>sign up</span></a></li>
             </ul>
         </nav>
-        <!-- <footer>
+        <footer>
             <h5>
                 <span class="dateandtime">
                 <?php echo date('F j, Y g:i a');?></span> <br> Chicago - Central Time
             </h5>
-        </footer> -->
+        </footer>
     </div>
-</header>
+</div>
 <div class="banner">
 </div>
 <section class="content<?php 
