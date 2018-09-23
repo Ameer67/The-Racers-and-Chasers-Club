@@ -99,14 +99,12 @@ ol li {
 /* NAVIGATION */
 .sidenav {
   z-index: 10;
-  height: 100vh;
   width: 20vw;
   position: fixed;
-  overflow: hidden;
   display: grid;
   grid-template-rows: 25vh;
   flex-direction: column;
-  transition: height 0.2s;
+  transition: width 0.1s;
 }
 
 .logocontainer {
@@ -115,7 +113,7 @@ ol li {
   padding: 1em 0 1em 1em;
 }
 
-.logo {
+.logocontainer img {
   max-height: 100%;
   max-width: 100%;
 }
@@ -123,8 +121,7 @@ ol li {
 nav {
   align-self: start;
   width: 100%;
-  flex-basis: 100%;
-  margin-top: 1em;
+  margin: 1em 0 .5em 0;
 }
 
 nav ul {
@@ -478,12 +475,13 @@ button:hover {
   border-radius: 0 0 .5em .5em;
 }
 
-footer {
+.datetime {
   color: white;
-  opacity: .3;
+  opacity: .25;
   width: 100%;
-  padding: 20px;
-  text-align: center;
+  text-align: right;
+  align-self: start;
+  padding-right: .5em;
 }
 
 @media (max-width: 1600px) and (min-width: 1200px) {

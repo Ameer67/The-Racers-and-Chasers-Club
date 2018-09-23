@@ -20,7 +20,7 @@
 <div class="sidenav">
     <div class="logocontainer">
         <a href="index.php">
-            <img class="logo" src="img/TR&amp;CC_main_shadow.png">
+            <img src="img/TR&amp;CC_main_shadow.png">
         </a>
     </div>
     <nav>
@@ -62,12 +62,12 @@
             </li>
         </ul>
     </nav>
-    <footer>
+    <div class="datetime">
         <h5>
-            <span class="dateandtime">
-            <?php echo date('F j, Y g:i a');?></span> <br> Chicago - Central Time
+            <span>
+            <?php echo date('F j, Y g:i a');?></span> &nbsp; Chicago - Central Time
         </h5>
-    </footer>
+    </div>
 </div>
 <div class="banner">
 </div>
