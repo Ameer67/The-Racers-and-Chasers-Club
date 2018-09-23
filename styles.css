@@ -96,14 +96,12 @@ ol li {
   grid-template-columns: 1fr;
 }
 
-/* NAVIGATION */
+/* SIDEBAR */
 .sidenav {
   z-index: 10;
   width: 20vw;
   position: fixed;
-  display: grid;
   grid-template-rows: 25vh;
-  flex-direction: column;
   transition: width 0.1s;
 }
 
@@ -215,7 +213,6 @@ section.content{
 
 /* TOP OF PAGE DESCRIPTION */
 .intro {
-  display: grid;
   grid-template-columns: 1fr 3fr;
   column-gap: .5em;
   position: relative;

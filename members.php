@@ -1,5 +1,5 @@
 <?php include("components/headnav.php"); ?>
-<div class="intro">
+<div class="intro grid">
     <div>
         <h1>Who's In</h1>
     </div>

@@ -1,5 +1,5 @@
 <?php include("components/headnav.php"); ?>
-<div class="intro">
+<div class="intro grid">
     <div class="policelogocontainer">
         <img src="img/LothianPolice.png" alt="Lothian Police Logo">
     </div>

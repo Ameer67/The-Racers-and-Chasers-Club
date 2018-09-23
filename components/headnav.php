@@ -17,7 +17,7 @@
 </head>
 <?php include("dbsettings.php") ?>
 <body>
-<div class="sidenav">
+<div class="sidenav grid">
     <div class="logocontainer">
         <a href="index.php">
             <img src="img/TR&amp;CC_main_shadow.png">
