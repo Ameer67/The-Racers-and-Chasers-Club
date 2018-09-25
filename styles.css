@@ -398,7 +398,6 @@ section.content{
 
 form {
   width: 50%;
-  
   padding: 1em;
   margin: 1em 0 1em 0;
   border-radius: .5em;
@@ -526,6 +525,10 @@ button:hover {
   section.content {
     margin: 0 0 0 25vw;
   }
+
+  form {
+    width: 75%;
+  }
 }
 
 @media (max-width: 1200px) and (min-width: 0px) {
@@ -534,11 +537,17 @@ button:hover {
   }
 }
 
-@media (max-width: 768px) and (min-width: 400px){
+@media (max-width: 768px) and (min-width: 450px){
   .sidenav .logocontainer {
-    max-width: 50%;
+    max-width: 70%;
     padding: 0;
-    margin: 1em 0 0 0;
+  }
+}
+
+@media (max-width: 450px) and (min-width:0px) {
+  .sidenav .logocontainer {
+    max-width: 90%;
+    padding: 0;
   }
 }
 
@@ -548,21 +557,15 @@ button:hover {
   }
 
   .sidenav {
+    grid-template-rows: initial;
     position: relative;
-    width: 100vw;
-    height: initial;
+    width: 100%;
   }
 
   .sidenav .logocontainer {
-    max-width: 75%;
+    height: 100px;
     padding: 0;
-    margin: 1em 0 0 0;
-  }
-
-  nav {
-    height: initial;
-    width: 100%;
-    flex-basis: 100%;
+    justify-self: center;
   }
 
   nav ul {
@@ -572,33 +575,16 @@ button:hover {
   nav ul li {
     width: 100%;
     height: 40px;
-    -webkit-clip-path: none;
-    clip-path: none;
     padding: 0;
   }
 
   nav ul li a {
+    text-align: center;
     width: 100%;
   }
 
-  nav ul li:hover {
-    background-color: initial;
-    color: initial;
-    color: initial;
-    border-bottom: initial;
-    border-top: initial;
-  }
-
-  nav ul li a:hover {
-    background-color: rgba(0, 0, 0, .3);
-    color: #ff8f00;
-    color: white;
-    border-bottom: 4px solid #ff8f00;
-    border-top: 4px solid transparent;
-  }
-
-  nav ul li a:active {
-    border: none;
+  .datetime {
+    text-align: center;
   }
 
   section.content {
@@ -623,5 +609,9 @@ button:hover {
   .icon {
     width: 48px;
     height: 48px;
+  }
+
+  form {
+    width: 100%;
   }
 }

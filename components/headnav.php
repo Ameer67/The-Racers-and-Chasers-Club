@@ -17,6 +17,8 @@
 </head>
 <?php include("dbsettings.php") ?>
 <body>
+<div class="banner">
+</div>
 <div class="sidenav grid">
     <div class="logocontainer">
         <a href="index.php">
@@ -69,8 +71,7 @@
         </h5>
     </div>
 </div>
-<div class="banner">
-</div>
+
 <section class="content<?php 
 if ($pageTitle == "Home") {
     echo " home";
