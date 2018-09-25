@@ -69,7 +69,7 @@
     <div class="datetime">
         <h5>
             <span>
-            <?php echo date('F j, Y g:i a');?></span> &nbsp; Chicago - Central Time
+            <?php echo date('F j, Y g:i a');?></span> Central Time
         </h5>
     </div>
 </div>
