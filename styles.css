@@ -206,7 +206,8 @@ section.content{
   grid-column-end: 2;
   grid-row-start: 1;
   grid-row-end: 4;
-  background-color: rgba(0, 0, 0, .25);
+  border-radius: .5em;
+  border: 1px solid rgba(255, 255, 255, .25);
   padding: 2em;
 }
 
@@ -416,6 +417,7 @@ form {
 }
 
 input {
+  font-family: sans-serif;
   font-size: .75em;
   color: white;
   background: rgba(255, 255, 255, .25);
@@ -430,6 +432,7 @@ input:focus {
 }
 
 textarea {
+  font-family: sans-serif;
   font-size: .75em;
   color: white;
   background: rgba(255, 255, 255, .25);
