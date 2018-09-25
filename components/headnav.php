@@ -17,8 +17,10 @@
 </head>
 <?php include("dbsettings.php") ?>
 <body>
+
 <div class="banner">
 </div>
+<script src="scripts/bannerGradient.js"></script>
 <div class="sidenav grid">
     <div class="logocontainer">
         <a href="index.php">
