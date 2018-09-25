@@ -600,6 +600,15 @@ button:hover {
     justify-items: center;
   }
 
+  .infobox.withimg {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+  }
+
+  .infobox .infoimg {
+    border-radius: 0;
+  }
+
   .infotop {
     grid-template-columns: 1fr;
     justify-items: center;
