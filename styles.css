@@ -367,26 +367,28 @@ section.content{
 
 /* MEMBERS */
 .member {
-  grid-template-columns: auto auto;
+  position: relative;
+  grid-template-columns: 120px auto;
   align-items: center;
+  height: 122px;
   box-shadow: 0 0px 5px rgba(0, 0, 0, .2);
   border-radius: .5em;
   border: 1px solid rgba(255, 255, 255, 0.25);
-  padding: 1em;
 }
 
 .memberimg {
-  width: 125px;
-  height: 125px;
+
+  width: 120px;
+  height: 120px;
 }
 
 .memberimg img {
   max-width: 100%;
-  border-radius: .5em;
+  border-radius: .5em 0 0 .5em;
   box-shadow: 0 0 5px rgba(0, 0, 0, .15);
 }
 .memberinfo {
-  margin-left: 1em;
+  padding: 0 1em 0 1em;
 }
 .memberinfo p{
   line-height: 1.5;
@@ -497,7 +499,7 @@ button:hover {
   padding-right: .5em;
 }
 
-@media (max-width: 1600px) and (min-width: 1200px) {
+@media (max-width: 1600px) and (min-width: 1050px) {
   .trigrid {
     grid-template-columns: 1fr 1fr;
   }
@@ -530,7 +532,7 @@ button:hover {
   }
 }
 
-@media (max-width: 1200px) and (min-width: 0px) {
+@media (max-width: 1050px) and (min-width: 0px) {
   .trigrid {
     grid-template-columns: 1fr;
   }
