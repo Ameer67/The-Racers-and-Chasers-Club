@@ -25,7 +25,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div class="infobox" id="join">
+<div class="infobox" >
     <div>
         <div class="infotop grid">
             <div>
@@ -34,10 +34,10 @@
             </div>
             
             <div class="icon">
-                <img src="img/icons/members.png" alt="members">
+                <img src="img/icons/application.png" alt="application">
             </div>
         </div>
-        <div class="infobottom">
+        <div class="infobottom" id="join">
             <ol>
                 <li>
                     <p>Create a <a href="https://www.gtplanet.net/">GTPlanet account</a>. Our <a href="link">thread</a> on the GTPlanet Forums allows for easy communication between club members. (It's also a good site for the latest Forza (and other racing games) news.)</p>

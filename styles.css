@@ -398,13 +398,17 @@ section.content{
 
 form {
   width: 50%;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
+  
   padding: 1em;
   margin: 1em 0 1em 0;
   border-radius: .5em;
   border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+#join {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 #application, #applicationresults, #applicationstep3, #applicationstep4 {
@@ -412,7 +416,7 @@ form {
 }
 
 input {
-  text-align: center;
+  font-size: .75em;
   color: white;
   background: rgba(255, 255, 255, .25);
   border: 0;
@@ -421,6 +425,20 @@ input {
 }
 
 input:focus {
+  border-bottom: 3px solid #ff8f00;
+  border-radius: .5em .5em 0 0;
+}
+
+textarea {
+  font-size: .75em;
+  color: white;
+  background: rgba(255, 255, 255, .25);
+  border: 0;
+  padding: .5em;
+  border-radius: .5em;
+}
+
+textarea:focus {
   border-bottom: 3px solid #ff8f00;
   border-radius: .5em .5em 0 0;
 }
