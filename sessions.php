@@ -25,13 +25,13 @@
             </div>
             <div class="modeinfo">
                 <h4>How it works</h4>
-                <p>One person is assigned to be a racer, and everyone else is a cop. (If there are 8+ players, two racers are allowed simultaneously.) See the <a href="police.php">"Catching the criminals"</a> section to see how pursuits work and when a racer is considered busted. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
+                <p>One person is assigned to be a racer, and everyone else is a cop. (If there are 8+ players, two racers are allowed simultaneously.) See the <a href="police.php">"Catching the criminals"</a> section to see how pursuits work and when a racer is considered busted. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. Everyone in the session should have at least one attempt at being a racer.</p>
             </div>
             <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
                 <ul>
                     <li>Gameplay boundaries are limited to a specific area (ex: Edinburgh) that will be stated beforehand.</li>
-                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless ambulance).</li>
+                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless you're driving an ambulance).</li>
                     <li>Only 1 drone is allowed at a time and only for 5 minutes. There is a 2-minute cooldown period if that officer wants to resume using the drone.</li>
                     <li>Only the lead unit and/or dispatcher should call out pursuit priority and location.</li>
                 </ul>
@@ -61,12 +61,13 @@
             </div>
             <div class="modeinfo">
                 <h4>How it works</h4>
-                <p>The host of the lobby will set a group destination (the finish line) on the map. Two people are assigned to be racers, and everyone else is a cop. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
+                <p>The host of the lobby will set a group destination (the finish line) on the map. Two people are assigned to be racers, and everyone else is a cop. Only one attempt is given. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
             </div>
             <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
                 <ul>
                     <li>Racers MUST follow fixed a route. Cops do not have to follow it.</li>
+                    <li>Only one cop is allowed to start right by the racers (they should also do the race countdown). Other cops should spread out strategically.</li>
                     <li>Fast traveling is prohibited once the race starts.</li>
                     <li>Minimap and names above cars are allowed.</li>
                     <li>Pursuit priorities do not apply.</li>

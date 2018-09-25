@@ -10,7 +10,7 @@
         <div class="infotop grid">
             <div>
                 <h3>Catching the criminals</h3>
-                <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below. Everyone in the session should have at least one attempt at being a racer.</p>
+                <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below.</p>
             </div>
             
             <div class="icon">
