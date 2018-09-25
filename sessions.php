@@ -90,7 +90,7 @@
         <div class="infotop grid">
             <div>
                 <h3>Upcoming sessions</h3>
-                <p>We've hosted <span class="sessioncount">67</span> lobbies so far!</p>
+                <p>We've hosted <span class="sessioncount">67</span> lobbies so far! All dates and times are in Central Time.</p>
             </div>
             <div class="icon">
                 <img src="img/icons/calendar.png" alt="calendar">
