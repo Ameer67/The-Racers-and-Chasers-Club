@@ -1,5 +1,6 @@
 var application = document.getElementById("application");
 var quizsubmit = document.getElementById("quizsubmit");
+var badresponse = document.getElementById("badresponse");
 var gtpaccount = document.getElementById("gtpaccount");
 var mic = document.getElementById("mic");
 var stealthunits = document.getElementById("stealthunits");
@@ -11,7 +12,7 @@ function quizFunction() {
         applicationstep3.style.display = "block";
     }
     else {
-        alert("Try again!");
+        badresponse.style.display = "block";
     }
 }
 

@@ -71,7 +71,7 @@
                     <li>Fast traveling is prohibited once the race starts.</li>
                     <li>Minimap and names above cars are allowed.</li>
                     <li>Pursuit priorities do not apply.</li>
-                    <li>SWAT vehicles are not allowed.</li>
+                    <li>SWAT and Enforcer vehicles are not allowed.</li>
                 </ul>
             </div>
         </div>

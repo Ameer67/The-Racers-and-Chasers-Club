@@ -47,6 +47,7 @@
                 </li>
             </ol>
             <form id="quiz"><div>  
+                <p id="badresponse"> Please make sure everything is filled out correctly.</p>
                 <label for="gtpaccount">
                     <p>I have created a GTPlanet account</p>
                     <input type="checkbox" name="gtpaccount" id="gtpaccount">

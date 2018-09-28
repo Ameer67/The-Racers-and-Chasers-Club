@@ -412,7 +412,14 @@ form {
   flex-direction: column;
 }
 
-#application, #applicationresults, #applicationstep3, #applicationstep4 {
+#badresponse {
+  font-size: .75em;
+  background: red;
+  text-align: center;
+  border-radius: .5em;
+}
+
+#application, #applicationresults, #applicationstep3, #applicationstep4, #badresponse {
   display: none;
 }
 
