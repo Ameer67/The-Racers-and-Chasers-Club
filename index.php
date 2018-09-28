@@ -5,7 +5,7 @@
     the experiences of a police officer or a street racer while staying true to the following core values:
     fun, realistic, and democratic. Forza Horizon 4 is where club sessions are hosted
     (which are typically held on Fridays and weekends). 
-    Members are expected to join sessions on a reasonable basis. Take a look around the site and <a href="members.php">sign up</a> once you're ready!</p>
+    Members are expected to join sessions on a reasonable basis. Take a look around the site and <a href="members.php#join">sign up</a> once you're ready!</p>
 </div>
 <div class="infobox withimg">
     <div>
