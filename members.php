@@ -17,6 +17,15 @@
             </div>
         </div>
         <div class="infobottom trigrid grid">
+            <div class="member grid">
+                <div class="memberimg" >
+                    <img src="img/defaultmember.jpg">
+                </div>
+                <div class="memberinfo">
+                    <h4>GTPlanet name</h4>
+                    <p>Xbox Live Gamertag</p>
+                </div>
+            </div>
             <?php include("components/memberlist.php") ?>
         
         </div>

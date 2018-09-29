@@ -15,7 +15,7 @@
                 <div class="memberinfo">
                     <h4>' . $gtp_name . '</h4>
                     <p>' . $xbox_name . '</p>
-                    <span>Joined on ' . $join_date . '</span>
+                    
                 </div>
                 
             </div>';
