@@ -8,8 +8,8 @@
     <div>
         <div class="infotop grid">
             <div>
-                <h3>Current members</h3>
-                <p></p>
+                <h3>The usuals</h3>
+                <p>The people listed below are club regulars and are allowed to host their own sessions. If you'd like to be put on this list, please <a href="https://www.gtplanet.net/forum/conversations/add?to=Ameer67">ask Ameer67 on GTPlanet.</a></p>
             </div>
             
             <div class="icon">
