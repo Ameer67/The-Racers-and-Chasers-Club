@@ -1,4 +1,30 @@
 <?php include("components/headnav.php"); ?>
+<div class="intro">
+    <div>
+        <h1>Sessions</h1>
+    </div>
+    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended.</p> 
+</div>
+<div class="infobox">
+    <div>
+        <div class="infotop grid">
+            <div>
+                <h3>Upcoming sessions</h3>
+                <p>We've hosted <span class="sessioncount">67</span> lobbies so far! All dates and times are in Central Time.</p>
+            </div>
+            <div class="icon">
+                <img src="img/icons/calendar.png" alt="calendar">
+            </div>
+        </div>
+        <div class="infobottom trigrid grid">
+            
+            <?php include("components/sessionslist.php") ?>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
 <div class="intro grid">
     <div>
         <h1>Game modes</h1>
@@ -80,32 +106,7 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
-<div class="intro">
-    <div>
-        <h1>Sessions</h1>
-    </div>
-    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended.</p> 
-</div>
-<div class="infobox">
-    <div>
-        <div class="infotop grid">
-            <div>
-                <h3>Upcoming sessions</h3>
-                <p>We've hosted <span class="sessioncount">67</span> lobbies so far! All dates and times are in Central Time.</p>
-            </div>
-            <div class="icon">
-                <img src="img/icons/calendar.png" alt="calendar">
-            </div>
-        </div>
-        <div class="infobottom trigrid grid">
-            
-            <?php include("components/sessionslist.php") ?>
-        </div>
-    </div>
-    
-    <div class="infoimg"></div>
-    <div class="border"></div>
-</div>
+
 </section> 
 <script src="scripts/sessionClass.js" type="text/javascript"></script>
 <script src="scripts/sessionCount.js" type="text/javascript"></script>
