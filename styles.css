@@ -144,14 +144,17 @@ nav ul li {
 }
 
 nav ul li:hover {
-  color: #ff8f00;
   border-bottom: 3px solid #ff8f00;
+  border-top: 3px solid transparent;
+}
+
+nav ul li.current {
+  border-bottom: 3px solid #00a6ff;
   border-top: 3px solid transparent;
 }
 
 nav ul li:active {
   border-bottom: 0;
-
 }
 
 nav ul li a {

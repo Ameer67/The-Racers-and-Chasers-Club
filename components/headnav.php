@@ -5,8 +5,8 @@
     <title>
     <?php 
     $currentFile = basename($_SERVER['PHP_SELF']);
-    $pageTitle = ucfirst(str_replace(".php"," ", $currentFile));
-    if ($pageTitle == 'Index ') {
+    $pageTitle = ucfirst(str_replace(".php","", $currentFile));
+    if ($pageTitle == "Index") {
         $pageTitle = "Home";
     }
     echo $pageTitle;
@@ -15,7 +15,8 @@
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="styles.css">
 </head>
-<?php include("dbsettings.php") ?>
+<?php include("dbsettings.php");
+echo $pageTitle;?>
 <body>
 
 <div class="banner">
@@ -29,27 +30,32 @@
     </div>
     <nav>
         <ul>
-            <li>
+            <li class="<?php if ($pageTitle == "Home") {
+                echo "current";} ?>">
                 <a href="index.php">
                     <span>home</span>
                 </a>
             </li>
-            <li>
+            <li class="<?php if ($pageTitle == "Sessions") {
+                echo "current";} ?>">
                 <a href="sessions.php">
                     <span>sessions</span>
                 </a>
             </li>
-            <li>
+            <li class="<?php if ($pageTitle == "Rules") {
+                echo "current";} ?>">
                 <a href="rules.php">
                     <span>rules</span>
                 </a>
             </li>
-            <li>
+            <li class="<?php if ($pageTitle == "Members") {
+                echo "current";} ?>">
                 <a href="members.php">
                     <span>members</span>
                 </a>
             </li>
-            <li>
+            <li class="<?php if ($pageTitle == "Police") {
+                echo "current";} ?>">
                 <a href="police.php">
                     <span>police</span>
                 </a>
