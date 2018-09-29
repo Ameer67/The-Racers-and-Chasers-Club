@@ -15,8 +15,7 @@
     <link rel="stylesheet" href="reset.css">
     <link rel="stylesheet" href="styles.css">
 </head>
-<?php include("dbsettings.php");
-echo $pageTitle;?>
+<?php include("dbsettings.php") ?>
 <body>
 
 <div class="banner">

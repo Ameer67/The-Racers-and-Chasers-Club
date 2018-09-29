@@ -151,6 +151,7 @@ nav ul li:hover {
 nav ul li.current {
   border-bottom: 3px solid #00a6ff;
   border-top: 3px solid transparent;
+  background: #ffffff14;
 }
 
 nav ul li:active {

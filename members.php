@@ -65,6 +65,15 @@
                     <p>I have a microphone</p>
                     <input type="checkbox" name="mic" id="mic">
                 </label>
+                <label for="gamemodemap">
+                    <p>In what game mode is use of the map prohibited?</p>
+                    <select name="gamemodemap" id="gamemodemap">
+                        <option value=""></option>
+                        <option value="Most Wanted">Most Wanted</option>
+                        <option value="Duel">Duel</option>
+                        <option value="Open Patrol">Open Patrol</option>
+                    </select>
+                </label>
                 <label for="stealthunits">
                     <p>How many stealth units are allowed on duty?</p>
                     <select name="stealthunits" id="stealthunits">
