@@ -58,6 +58,7 @@
                 <ul>
                     <li>Gameplay boundaries are limited to a specific area (ex: Edinburgh) that will be stated beforehand.</li>
                     <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless you're driving an ambulance).</li>
+                    <li>Racers should not constantly waste time by cruising around. There are other people in the lobby who want to be racers too.</li>
                     <li>Only 1 drone is allowed at a time and only for 5 minutes. There is a 2-minute cooldown period if that officer wants to resume using the drone.</li>
                     <li>Only the lead unit and/or dispatcher should call out pursuit priority and location.</li>
                 </ul>
