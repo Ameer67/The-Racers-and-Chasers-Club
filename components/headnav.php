@@ -60,7 +60,7 @@
                 </a>
             </li>
             <li>
-                <a href="#">
+                <a href="https://www.gtplanet.net/forum/threads/the-racers-chasers-club.382202/">
                     <span>thread</span>
                 </a>
             </li>
