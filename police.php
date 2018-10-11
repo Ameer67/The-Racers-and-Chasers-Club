@@ -105,9 +105,17 @@
             </div>
             <div class="policecar">
                 <div class="carinfo">
-                    <h4>Rhino</h4>
-                    <p>This class consists of SUVs and pickups made for ramming racers off the road and are allowed to perform a head-on hit to take them out. 
+                    <h4>Light Rhino</h4>
+                    <p>This class consists of relatively small SUVs and pickups made for ramming racers off the road.  
                     <br>Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
+                </div>
+                <div class="carimg"></div>
+            </div>
+            <div class="policecar">
+                <div class="carinfo">
+                    <h4>Heavy Rhino</h4>
+                    <p>The Heavy Rhino is allowed to patrol the streets, but only in winter. They can be called to action during a priority 1 pursuit (regardless of season). These vehicles are equipped with a heavy-duty offroad kit, increasing their strength. Simulation damage is turned off for this class.
+                    <br>Restrictions: only 1 allowed on-duty until there are 8+ players during winter, then 2, and only 1 allowed during priority 1 pursuit.</p>
                 </div>
                 <div class="carimg"></div>
             </div>
@@ -130,18 +138,57 @@
             <div class="policecar">
                 <div class="carinfo">
                     <h4>SWAT</h4>
-                    <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions and are immune to the 100 mph collision rule, but once it rolls, the truck is totaled. 
+                    <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions. Simulation damage is turned off for this class. 
                     <br>Restrictions: only 1 allowed after 10+ minute pursuit and priority 1.</p>
                 </div>
                 <div class="carimg"></div>
             </div>
-            <div class="policecar">
-                <div class="carinfo">
-                    <h4>Ambulance</h4>
-                    <p>Though it is technically not a police car, the ambulance is a useful vehicle for the LPS to own. Its main purpose is to revive totalled officers by waiting near them for 5 seconds. 
-                    <br>Restrictions: only 1 allowed on-duty and lobby needs to have 8+ players. Tuned up to D class.</p>
-                </div>
-                <div class="carimg"></div>
+            <div>
+                <h4>Eligible Light Rhino vehicles</h4>
+                <p>
+                1945    Willys	Jeep MB<br>
+                1970	International	Scout 800A<br>
+                1972	Land Rover	Series III<br>
+                1973	Land Rover	Range Rover<br>
+                1975	Ford	Bronco<br>
+                1976	Jeep	CJ5 Renegade<br>
+                1986	Lamborghini	LM 002<br>
+                1997	Land Rover	Defender 90<br>
+                2008	Volkswagen	Touareg R50<br>
+                2012	Bowler	EXR S<br>
+                2012	Jeep	Wrangler Rubicon<br>
+                2014	Local Motors	Rally Fighter<br>
+                2015	BMW	X6 M<br>
+                2017	Chevrolet	Colorado ZR2<br>
+                </p>
+            </div>
+            <div>
+                <h4>Eligible Heavy Rhino vehicles</h4>
+                <p>
+                2006	Hummer	H1 Alpha<br>
+                2011	BMW	X5 M<br>
+                2011	Ford	F-150 SVT Raptor<br>
+                2013	Mercedes-Benz	G 65 AMG<br>
+                2014	Jeep	Grand Cherokee SRT<br>
+                2014	Lamborghini	Urus<br>
+                2015	Land Rover	Range Rover Sport SVR<br>
+                2015	Porsche	Macan Turbo<br>
+                2016	Bentley	Bentayga<br>
+                2016	Nissan	Titan Warrior Concept<br>
+                2017	Ford	F-150 Raptor<br>
+                2017	Jaguar	F-PACE S<br>
+                2017	Ram	2500 Power Wagon<br>
+                2018	Dodge	Durango SRT<br>
+                2018	Jeep	Grand Cherokee Trackhawk<br>
+                2018	Porsche	Cayenne Turbo<br>
+                </p>
+            </div>
+            <div>
+                <h4>Eligible SWAT vehicles</h4>
+                <p>
+                2014	Mercedes-Benz	Unimog U5023<br>
+                2014	Terradyne	Gurkha LAPV<br>
+                </p>
             </div>
         </div>
     </div>
