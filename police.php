@@ -36,7 +36,7 @@
             </div>
             <div>
                 <h4>5A. Racer first try bust</h4>
-                <p> If the chase lasted 10+ minutes, reached priority 1, and/or the SWAT team was called in, racers do NOT get a second try. Otherwise, move to 5B.</p>
+                <p> If the chase lasted 10+ minutes, reached priority 1, and/or the SWAT team was called in, racers do NOT get a second try. Otherwise, move to 5B. Racers can repair their vehicle after the chase, but NOT change it. Cops can switch and/or repair their vehicles.</p>
             </div>
             <div>
                 <h4>5B. Racer second try bust (if applicable)</h4>
