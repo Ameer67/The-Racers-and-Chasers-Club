@@ -146,12 +146,10 @@
             <div>
                 <h4>Eligible Light Rhino vehicles</h4>
                 <p>
-                1945    Willys	Jeep MB<br>
                 1970	International	Scout 800A<br>
                 1972	Land Rover	Series III<br>
                 1973	Land Rover	Range Rover<br>
                 1975	Ford	Bronco<br>
-                1976	Jeep	CJ5 Renegade<br>
                 1986	Lamborghini	LM 002<br>
                 1997	Land Rover	Defender 90<br>
                 2008	Volkswagen	Touareg R50<br>
