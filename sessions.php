@@ -3,7 +3,7 @@
     <div>
         <h1>Sessions</h1>
     </div>
-    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended.</p> 
+    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended. It is the host's job to make sure rules are enforced and is allowed to kick people if need be.</p> 
 </div>
 <div class="infobox">
     <div>
@@ -57,7 +57,7 @@
                 <h4>Specific rules/regulations</h4>
                 <ul>
                     <li>Gameplay boundaries are limited to a specific area (ex: Edinburgh) that will be stated beforehand.</li>
-                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless you're driving an ambulance).</li>
+                    <li>Minimap and names above cars MUST be turned OFF. Do NOT check the map at all (unless you are the host and checking to see if everyone is in the boundaries).</li>
                     <li>Racers should not constantly waste time by cruising around. There are other people in the lobby who want to be racers too.</li>
                     <li>Only 1 drone is allowed at a time and only for 5 minutes. There is a 2-minute cooldown period if that officer wants to resume using the drone.</li>
                     <li>Only the lead unit and/or dispatcher should call out pursuit priority and location.</li>
