@@ -106,7 +106,7 @@
             <div class="policecar">
                 <div class="carinfo">
                     <h4>Light Rhino</h4>
-                    <p>This class consists of relatively small SUVs and pickups made for ramming racers off the road.  
+                    <p>This class consists of relatively small SUVs and pickups made for ramming racers off the road. They can prove useful during offroad situations in which a Cruiser might struggle. See eligible cars below. 
                     <br>Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
                 </div>
                 <div class="carimg"></div>
@@ -114,7 +114,7 @@
             <div class="policecar">
                 <div class="carinfo">
                     <h4>Heavy Rhino</h4>
-                    <p>The Heavy Rhino is allowed to patrol the streets, but only in winter. They can be called to action during a priority 1 pursuit (regardless of season). These vehicles are equipped with a heavy-duty offroad kit, increasing their strength. Simulation damage is turned off for this class.
+                    <p>These strengthened machines can be called into action during priority 1 pursuits. Winter is the only time they are allowed on patrol. Simulation damage is turned off for this class. See eligible cars below.
                     <br>Restrictions: only 1 allowed on-duty until there are 8+ players during winter, then 2, and only 1 allowed during priority 1 pursuit.</p>
                 </div>
                 <div class="carimg"></div>
@@ -138,13 +138,14 @@
             <div class="policecar">
                 <div class="carinfo">
                     <h4>SWAT</h4>
-                    <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions. Simulation damage is turned off for this class. 
+                    <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions. Simulation damage is turned off for this class. See eligible cars below. 
                     <br>Restrictions: only 1 allowed after 10+ minute pursuit and priority 1.</p>
                 </div>
                 <div class="carimg"></div>
             </div>
-            <div>
+            <div class="policecarrestrictions">
                 <h4>Eligible Light Rhino vehicles</h4>
+                <h5>Simulation damage is left on for this class.</h5>
                 <p>
                 1970	International	Scout 800A<br>
                 1972	Land Rover	Series III<br>
@@ -160,8 +161,9 @@
                 2017	Chevrolet	Colorado ZR2<br>
                 </p>
             </div>
-            <div>
+            <div class="policecarrestrictions">
                 <h4>Eligible Heavy Rhino vehicles</h4>
+                <h5>MUST be equipped with the offroad kit and/or a front bull bar. Without them, these vehicles are considered Light Rhinos. Simulation damage is turned off for this class.</h5>
                 <p>
                 2006	Hummer	H1 Alpha<br>
                 2011	BMW	X5 M<br>
@@ -181,8 +183,9 @@
                 2018	Porsche	Cayenne Turbo<br>
                 </p>
             </div>
-            <div>
+            <div class="policecarrestrictions">
                 <h4>Eligible SWAT vehicles</h4>
+                <h5>Can be modified and tuned to the max. All engine swaps are allowed. No holds barred. Simulation damage is turned off for this class.</h5>
                 <p>
                 2014	Mercedes-Benz	Unimog U5023<br>
                 2014	Terradyne	Gurkha LAPV<br>
