@@ -515,7 +515,9 @@ button:hover {
   row-gap: 0;
   padding: 0;
 }
+
 .policecarrestrictions h5{
+  color: slategray;
   padding-top: .5em;
   font-weight: normal;
 }
