@@ -22,7 +22,8 @@
                     $rulesql = "SELECT * FROM rules WHERE ";
                     $generalRule = $rulesql . "rule_type = 'general'";
                     $gameplayRule = $rulesql . "rule_type = 'gameplay'";
-                    $behaviorRule = $rulesql . "rule_type = 'behavior'";            
+                    $behaviorRule = $rulesql . "rule_type = 'behavior'";
+                    $carRule = $rulesql . "rule_type = 'cars'";          
                     
                     $rulequery = mysqli_query($databaseConnection, $generalRule);
                     include("components/rulelist.php");
@@ -63,6 +64,25 @@
             <ul>
                 <?php 
                     $rulequery = mysqli_query($databaseConnection, $behaviorRule);
+                    include("components/rulelist.php");
+                ?>
+            </ul>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+
+<div class="infobox">
+    <div>
+        <div class="infotop">
+            <h3>Car regulations</h3>
+        </div>
+        <div class="infobottom">
+            <ul>
+                <?php 
+                    $rulequery = mysqli_query($databaseConnection, $carRule);
                     include("components/rulelist.php");
                 ?>
             </ul>
