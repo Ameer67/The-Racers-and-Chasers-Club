@@ -41,7 +41,7 @@
             <h3>Democratic</h3>
         </div>
         <div class="infobottom">
-            <p>See something you don't like? Just bring it up in our <a href="https://www.gtplanet.net/forum/threads/the-racers-and-chasers-club-under-construction-for-fh4.351581/">GTPlanet thread</a> and we'll see what we can do. In TR&amp;CC, we want to make sure everyone's voice is heard.</p>
+            <p>See something you don't like? Just bring it up in our <a href="https://www.gtplanet.net/forum/threads/the-racers-chasers-club.382202/">GTPlanet thread</a> and we'll see what we can do. In TR&amp;CC, we want to make sure everyone's voice is heard.</p>
         </div>
     </div>
     
