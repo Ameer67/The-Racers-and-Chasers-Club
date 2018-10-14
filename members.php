@@ -49,7 +49,7 @@
         <div class="infobottom" id="join">
             <ol>
                 <li>
-                    <p>Create a <a href="https://www.gtplanet.net/">GTPlanet account</a>. Our <a href="link">thread</a> on the GTPlanet Forums allows for easy communication between club members. (It's also a good site for the latest Forza (and other racing games) news.)</p>
+                    <p>Create a <a href="https://www.gtplanet.net/">GTPlanet account</a>. Our <a href="https://www.gtplanet.net/forum/threads/the-racers-chasers-club.382202/">thread</a> on the GTPlanet Forums allows for easy communication between club members. (It's also a good site for the latest Forza (and other racing games) news.)</p>
                 </li>
                 <li>
                     <p>Answer the following questions.</p>
