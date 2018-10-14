@@ -505,11 +505,16 @@ button:hover {
 }
 
 .policecarrestrictions {
+  grid-column: 1 / -1;
   border: 1px solid rgba(255, 255, 255, 0.25);
   border-radius: .5em;
   padding: 1em;
 }
 
+.policecarrestrictions .trigrid {
+  row-gap: 0;
+  padding: 0;
+}
 .policecarrestrictions h5{
   padding-top: .5em;
   font-weight: normal;

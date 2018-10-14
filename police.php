@@ -146,50 +146,65 @@
             <div class="policecarrestrictions">
                 <h4>Eligible Light Rhino vehicles</h4>
                 <h5>Simulation damage is left on for this class.</h5>
-                <p>
-                1970	International	Scout 800A<br>
-                1972	Land Rover	Series III<br>
-                1973	Land Rover	Range Rover<br>
-                1975	Ford	Bronco<br>
-                1986	Lamborghini	LM 002<br>
-                1997	Land Rover	Defender 90<br>
-                2008	Volkswagen	Touareg R50<br>
-                2012	Bowler	EXR S<br>
-                2012	Jeep	Wrangler Rubicon<br>
-                2014	Local Motors	Rally Fighter<br>
-                2015	BMW	X6 M<br>
-                2017	Chevrolet	Colorado ZR2<br>
-                </p>
+                <div class="trigrid grid">
+                    <p>1970	International	Scout 800A</p>
+                    <p>1972	Land Rover	Series III</p>
+                    <p>1973	Land Rover	Range Rover</p>
+                    <p>1975	Ford	Bronco</p>
+                    <p>1986	Lamborghini	LM 002</p>
+                    <p>1997	Land Rover	Defender 90</p>
+                    <p>2008	Volkswagen	Touareg R50</p>
+                    <p>2012	Bowler	EXR S</p>
+                    <p>2012	Jeep	Wrangler Rubicon</p>
+                    <p>2014	Local Motors	Rally Fighter</p>
+                    <p>2015	BMW	X6 M</p>
+                    <p>2017	Chevrolet	Colorado ZR2</p>
+                </div>
             </div>
             <div class="policecarrestrictions">
                 <h4>Eligible Heavy Rhino vehicles</h4>
                 <h5>MUST be equipped with the offroad kit and/or a front bull bar. Without them, these vehicles are considered Light Rhinos. Simulation damage is turned off for this class.</h5>
-                <p>
-                2006	Hummer	H1 Alpha<br>
-                2011	BMW	X5 M<br>
-                2011	Ford	F-150 SVT Raptor<br>
-                2013	Mercedes-Benz	G 65 AMG<br>
-                2014	Jeep	Grand Cherokee SRT<br>
-                2014	Lamborghini	Urus<br>
-                2015	Land Rover	Range Rover Sport SVR<br>
-                2015	Porsche	Macan Turbo<br>
-                2016	Bentley	Bentayga<br>
-                2016	Nissan	Titan Warrior Concept<br>
-                2017	Ford	F-150 Raptor<br>
-                2017	Jaguar	F-PACE S<br>
-                2017	Ram	2500 Power Wagon<br>
-                2018	Dodge	Durango SRT<br>
-                2018	Jeep	Grand Cherokee Trackhawk<br>
-                2018	Porsche	Cayenne Turbo<br>
-                </p>
+                <div class="trigrid grid">
+                    <p>2006	Hummer	H1 Alpha</p>
+                    <p>2011	BMW	X5 M</p>
+                    <p>2011	Ford	F-150 SVT Raptor</p>
+                    <p>2013	Mercedes-Benz	G 65 AMG</p>
+                    <p>2014	Jeep	Grand Cherokee SRT</p>
+                    <p>2014	Lamborghini	Urus</p>
+                    <p>2015	Land Rover	Range Rover Sport SVR</p>
+                    <p>2015	Porsche	Macan Turbo</p>
+                    <p>2016	Bentley	Bentayga</p>
+                    <p>2016	Nissan	Titan Warrior Concept</p>
+                    <p>2017	Ford	F-150 Raptor</p>
+                    <p>2017	Jaguar	F-PACE S</p>
+                    <p>2017	Ram	2500 Power Wagon</p>
+                    <p>2018	Dodge	Durango SRT</p>
+                    <p>2018	Jeep	Grand Cherokee Trackhawk</p>
+                    <p>2018	Porsche	Cayenne Turbo</p>
+                </div>
             </div>
             <div class="policecarrestrictions">
                 <h4>Eligible SWAT vehicles</h4>
                 <h5>Can be modified and tuned to the max. All engine swaps are allowed. No holds barred. Simulation damage is turned off for this class.</h5>
-                <p>
-                2014	Mercedes-Benz	Unimog U5023<br>
-                2014	Terradyne	Gurkha LAPV<br>
-                </p>
+                <div class="trigrid grid">
+                    <p>2014	Mercedes-Benz	Unimog U5023</p>
+                    <p>2014	Terradyne	Gurkha LAPV</p>
+                </div>
+            </div>
+            <div class="policecarrestrictions">
+                <h4>Cars with lightbars</h4>
+                <h5>The following vehicles have available lightbars in the customization menu. Make sure to install the blue one, not the orange one.</h5>
+                <div class="trigrid grid">
+                    <p>2011	Bugatti	Veyron Super Sport</p>
+                    <p>2011	Mercedes-Benz	SLS AMG</p>
+                    <p>2012	Porsche	Cayenne Turbo</p>
+                    <p>2014	Alfa Romeo	4C</p>
+                    <p>2014	Volkswagen	Golf R</p>
+                    <p>2015	Audi	RS 6 Avant</p>
+                    <p>2016	BMW	M4 GTS</p>
+                    <p>2016	Lamborghini	Aventador LP750-4 SV</p>
+                    <p>2017	Chevrolet	Camaro ZL1</p>
+                </div>
             </div>
         </div>
     </div>
