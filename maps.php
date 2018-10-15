@@ -14,7 +14,7 @@
     <div>
         <div class="infotop">
             <h3>Ambleside</h3>
-            <p>The southernmost village, mostly residental with some offroading. Works best with 4-6 people.</p>
+            <p>Cozy and quiet town south of Derwent Water. Works best with 4-6 players.</p>
         </div>
         <div class="infobottom">
             <div class="mapimgcontainer">
@@ -30,7 +30,7 @@
     <div>
         <div class="infotop">
             <h3>Broadway</h3>
-            <p>The southernmost village, mostly residental with some offroading. Works best with 4-6 people.</p>
+            <p>The southernmost village, mostly residental with some offroading. Works best with 4-6 players.</p>
         </div>
         <div class="infobottom">
             <div class="mapimgcontainer">
