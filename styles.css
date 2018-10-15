@@ -522,6 +522,14 @@ button:hover {
   font-weight: normal;
 }
 
+.mapimgcontainer {
+  margin: -2em -2em -2em -2em;
+}
+
+.mapimgcontainer img {
+  max-width: 100%;
+}
+
 .datetime {
   color: white;
   opacity: .25;
