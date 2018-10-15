@@ -63,6 +63,7 @@
                     <li>Only the lead unit and/or dispatcher should call out pursuit priority and location.</li>
                 </ul>
             </div>
+            <a href="maps.php">Click here to view Open Patrol maps.</a>
         </div>
     </div>
     
