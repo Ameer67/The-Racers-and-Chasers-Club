@@ -13,6 +13,22 @@
 <div class="infobox">
     <div>
         <div class="infotop">
+            <h3>Edinburgh South</h3>
+            <p>The southern section of Edinburgh containing the castle, police HQ, and more. Works best with 6+ players.</p>
+        </div>
+        <div class="infobottom">
+            <div class="mapimgcontainer">
+                <img src="img/maps/edinburgh_south.jpg" alt="edinburgh south">
+            </div>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+<div class="infobox">
+    <div>
+        <div class="infotop">
             <h3>Ambleside</h3>
             <p>Cozy and quiet town south of Derwent Water. Works best with 4-6 players.</p>
         </div>
