@@ -182,8 +182,8 @@ nav ul li#signup a {
   position: relative;
   width: 100%;
   height: 25vh;
-  background-image: url("https://store-images.s-microsoft.com/image/apps.49179.14249457320767201.9d3637cc-1f1d-46f2-9a98-99fd003390c8.2cf05c48-ad0e-4b0a-bcd2-3ecb7804b1cc?w=1922&h=1080&q=60");
-  background-position: 50% 60%;
+  background-image: url("img/bg1.jpg");
+  background-position: 50% 50%;
   background-size: cover;
 }
 
