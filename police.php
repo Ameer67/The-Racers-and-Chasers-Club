@@ -101,7 +101,7 @@
                     <p>The common patrol car seen roaming the streets of Lothian and bordering areas. Useful for everyday tasks such as setting up a speed trap or writing out hundreds of citations. Most on-duty officers will be driving a Cruiser. 
                     <br>Restrictions: none.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/cruiser.jpg');"></div>
             </div>
             <div class="policecar">
                 <div class="carinfo">
@@ -109,7 +109,7 @@
                     <p>This class consists of relatively small SUVs and pickups made for ramming racers off the road. They can prove useful during offroad situations in which a Cruiser might struggle. See eligible cars below. 
                     <br>Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/light_rhino.jpg');"></div>
             </div>
             <div class="policecar">
                 <div class="carinfo">
@@ -117,7 +117,7 @@
                     <p>These strengthened machines can be called into action during priority 1 pursuits. Winter is the only time they are allowed on patrol. Simulation damage is turned off for this class. See eligible cars below.
                     <br>Restrictions: only 1 allowed on-duty until there are 8+ players during winter, then 2, and only 1 allowed during priority 1 pursuit.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/heavy_rhino.jpg');"></div>
             </div>
             <div class="policecar">
                 <div class="carinfo">
@@ -125,7 +125,7 @@
                     <p>Stealth units use the main LPS livery, but darkened. These cars are not allowed to initiate pursuits, but are allowed to tip off other officers and join chases already in progress. 
                     <br>Restrictions: only 1 allowed on-duty.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/stealth.jpg');"></div>
             </div>
             <div class="policecar">
                 <div class="carinfo">
@@ -133,7 +133,7 @@
                     <p>This unit is allowed to be tuned one class above the lobby's limit, but must sit at the HQ or side of the road until a pursuit reaches priority 1. In their downtime, they are allowed to deploy a drone and act as a dispatcher if need be. 
                     <br>Restrictions: only 1 allowed on-duty and lobby needs to have 6+ players.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/enforcer.jpg');"></div>
             </div>
             <div class="policecar">
                 <div class="carinfo">
@@ -141,7 +141,7 @@
                     <p>Only under dire situations should the SWAT team be called to action. They can be tuned to the max regardless of lobby restrictions. Simulation damage is turned off for this class. See eligible cars below. 
                     <br>Restrictions: only 1 allowed after 10+ minute pursuit and priority 1.</p>
                 </div>
-                <div class="carimg"></div>
+                <div class="carimg" style="background-image: url('img/cars/swat.jpg');"></div>
             </div>
             <div class="policecarrestrictions">
                 <h4>Eligible Light Rhino vehicles</h4>
