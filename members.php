@@ -8,8 +8,8 @@
     <div>
         <div class="infotop grid">
             <div>
-                <h3>The usuals</h3>
-                <p>The people listed below are club regulars and are allowed to host their own sessions. If you'd like to be put on this list, please <a href="https://www.gtplanet.net/forum/conversations/add?to=Ameer67">ask Ameer67 on GTPlanet.</a></p>
+                <h3>Current Members</h3>
+                <p></p>
             </div>
             
             <div class="icon">
@@ -69,7 +69,7 @@
                     <p>In what game mode is use of the map prohibited?</p>
                     <select name="gamemodemap" id="gamemodemap">
                         <option value=""></option>
-                        <option value="Most Wanted">Most Wanted</option>
+                        <option value="Need For Speed">Need For Speed</option>
                         <option value="Duel">Duel</option>
                         <option value="Open Patrol">Open Patrol</option>
                     </select>
