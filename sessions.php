@@ -3,7 +3,7 @@
     <div>
         <h1>Sessions</h1>
     </div>
-    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, date, time, and an optional description. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended. It is the host's job to make sure rules are enforced and is allowed to kick people if need be.</p> 
+    <p>In TR&amp;CC, the terms "session," "lobby," and "room" are used interchangeably. Any member is allowed to create a session, but proper planning is necessary. To get a session started, the host will need to post on the thread stating the following: game mode, car class, location, date, time, and any other details. All sessions should be posted at least a few hours (or days - to allow for schedule issues) before the actual lobby starts. Impromptu lobbies are allowed to be opened, but are not recommended. It is the host's job to make sure rules are enforced and is allowed to kick people if need be.</p> 
 </div>
 <div class="infobox">
     <div>
@@ -74,7 +74,7 @@
     <div>
         <div class="infotop grid">
             <div>
-                <h3>Duel</h3>
+                <h3>Duel [WIP - Waiting on Route Creator]</h3>
                 <p>Run away from the cops <span style="font-style:italic;">and</span> &nbsp;win the race.</p>
             </div>
             <div class="icon">
