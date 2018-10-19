@@ -10,7 +10,7 @@
         <div class="infotop grid">
             <div>
                 <h3>Catching the criminals</h3>
-                <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a pursuit are listed below.</p>
+                <p>The goal of the LPS is to bust racers as fast and as safely as possible. This is done using a variety of maneuvers and tactics. The stages of a (Open Patrol) pursuit are listed below.</p>
             </div>
             
             <div class="icon">
@@ -32,7 +32,8 @@
             </div>
             <div>
                 <h4>4A. Busting the racer</h4>
-                <p>Police must surround the racer for at least 10 seconds to be considered caught. If police lose visual contact for 2 minutes, the racer has successfully evaded.</p>
+                
+                <p>If the racer's vehicle is surrounded for 10 seconds, lands on their side/roof after a jump, or is unable to go faster than 30 mph due to damage (basically limp mode), they are considered busted. If police lose visual contact for 2 minutes, the racer has successfully evaded, so back to step 1.</p>
             </div>
             <div>
                 <h4>5A. Racer first try bust</h4>
