@@ -17,7 +17,7 @@
         </div>
     </div>
     
-    <div class="infoimg"></div>
+    <div class="infoimg" style="background-image:url('img/fun.jpg');"></div>
     <div class="border"></div>
 </div>
 <div class="infobox withimg">
@@ -32,7 +32,7 @@
         </div>
     </div>
     
-    <div class="infoimg"></div>
+    <div class="infoimg" style="background-image:url('img/realistic.jpg');"></div>
     <div class="border"></div>
 </div>
 <div class="infobox withimg">
@@ -45,7 +45,7 @@
         </div>
     </div>
     
-    <div class="infoimg"></div>
+    <div class="infoimg" style="background-image:url('img/democratic.jpg');"></div>
     <div class="border"></div>
 </div>
 </section> 
