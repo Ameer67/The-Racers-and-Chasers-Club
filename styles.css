@@ -100,10 +100,6 @@ ol li {
   margin-bottom: 2em;
 }
 
-.noimg {
-  grid-template-columns: 1fr;
-}
-
 /* SIDEBAR */
 .sidenav {
   z-index: 10;
@@ -314,17 +310,6 @@ section.content{
   background-image: linear-gradient(to right, #ff8f00, #00a6ff);
 }
 
-/* .infobox::before { 
-  z-index: 1;
-  content: "";
-  position: absolute;
-  top: 0;
-  display: block;
-  height: 3px;
-  width: 100%;
-  background-image: linear-gradient(to right, #ff8f00, #00a6ff);
-} */
-
 /* SESSIONS + GAME MODES */
 .modeinfo {
   margin-bottom: 1em;
@@ -409,7 +394,6 @@ section.content{
 }
 
 /* APPLICATION FORM */
-
 form {
   width: 50%;
   padding: 1em;
@@ -530,6 +514,7 @@ button:hover {
   font-weight: normal;
 }
 
+/* POLICE LIVERY */
 .colorinfo {
   padding: 0 1em 0 1em;
   color: white;
