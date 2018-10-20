@@ -167,6 +167,7 @@
                 <h5>MUST be equipped with the offroad kit and/or a front bull bar. Without them, these vehicles are considered Light Rhinos. Simulation damage is turned off for this class.</h5>
                 <div class="trigrid grid">
                     <p>2006	Hummer	H1 Alpha</p>
+                    <p>2007 Toyota Hilux Arctic Trucks AT38</p>
                     <p>2011	BMW	X5 M</p>
                     <p>2011	Ford	F-150 SVT Raptor</p>
                     <p>2013	Mercedes-Benz	G 65 AMG</p>
@@ -176,6 +177,7 @@
                     <p>2015	Porsche	Macan Turbo</p>
                     <p>2016	Bentley	Bentayga</p>
                     <p>2016	Nissan	Titan Warrior Concept</p>
+                    <p>2016	Toyota	Land Cruiser Arctic Trucks AT37</p>
                     <p>2017	Ford	F-150 Raptor</p>
                     <p>2017	Jaguar	F-PACE S</p>
                     <p>2017	Ram	2500 Power Wagon</p>
