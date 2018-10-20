@@ -29,7 +29,7 @@
         <div class="infobottom">
             <p>In this club, we try to keep things as 
             close to the real world as possible without
-            interfering with the level of fun. (It' just a game in the end though, keep that in mind!)</p>
+            interfering with the level of fun. (It's just a game in the end though, keep that in mind!)</p>
         </div>
     </div>
     
