@@ -65,6 +65,17 @@
                     <p>I have a microphone</p>
                     <input type="checkbox" name="mic" id="mic">
                 </label>
+                <label for="tires">
+                    <p>What kind of tires should all cars have at least?</p>
+                    <select name="tires" id="tires">
+                        <option value=""></option>
+                        <option value="Street">Street tires</option>
+                        <option value="Sport">Sport tires</option>
+                        <option value="Race">Race tires</option>
+                        <option value="Drag">Drag tires</option>
+                    </select>
+                </label>
+                <label for="s
                 <label for="gamemodemap">
                     <p>In what game mode is use of the map prohibited?</p>
                     <select name="gamemodemap" id="gamemodemap">

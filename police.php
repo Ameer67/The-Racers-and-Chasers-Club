@@ -218,7 +218,7 @@
         <div class="infotop grid">
             <div>
                 <h3>Police Livery</h3>
-                <p>All Lothian Police Service vehicles use the same livery, except for Stealth units which use a darkened version. Livery pieces (side, front, back, etc) and already painted cars can be found on AmeerSixtySeven's storefront.</p>
+                <p>All Lothian Police Service vehicles use the same livery, except for Stealth units which use a darkened version. Livery pieces (side, front, back, text, etc) and already painted cars can be found on AmeerSixtySeven's storefront.</p>
             </div>
             
             <div class="icon">

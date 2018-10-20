@@ -4,11 +4,12 @@ var badresponse = document.getElementById("badresponse");
 var gtpaccount = document.getElementById("gtpaccount");
 var mic = document.getElementById("mic");
 var gamemodemap = document.getElementById("gamemodemap");
+var tires = document.getElementById("tires");
 var stealthunits = document.getElementById("stealthunits");
 var applicationstep3 = document.getElementById("applicationstep3");
 
 function quizFunction() {
-    if (gtpaccount.checked == true && mic.checked == true && gamemodemap.value == "Open Patrol" && stealthunits.value == "1") {
+    if (gtpaccount.checked == true && mic.checked == true && gamemodemap.value == "Open Patrol" && stealthunits.value == "1" && tires.value == "Street") {
         application.style.display = "block";
         applicationstep3.style.display = "block";
     }
