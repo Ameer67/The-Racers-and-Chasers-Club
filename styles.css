@@ -92,6 +92,14 @@ ol li {
   padding: 2.5em;
 }
 
+.quadgrid {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  column-gap: 2.5em;
+  row-gap: 2.5em;
+  margin-bottom: 2em;
+}
+
 .noimg {
   grid-template-columns: 1fr;
 }
@@ -382,7 +390,7 @@ section.content{
 }
 
 .memberimg {
-
+  border-radius: .5em 0 0 .5em;
   width: 120px;
   height: 120px;
 }
@@ -395,7 +403,7 @@ section.content{
 .memberinfo {
   padding: 0 1em 0 1em;
 }
-.memberinfo p{
+.memberinfo p {
   line-height: 1.5;
   color: green;
 }
@@ -522,6 +530,11 @@ button:hover {
   font-weight: normal;
 }
 
+.colorinfo {
+  padding: 0 1em 0 1em;
+  color: white;
+}
+
 .mapimgcontainer {
   margin: -2em -2em -2em -2em;
 }
@@ -540,7 +553,7 @@ button:hover {
 }
 
 @media (max-width: 1600px) and (min-width: 1050px) {
-  .trigrid {
+  .trigrid, .quadgrid{
     grid-template-columns: 1fr 1fr;
   }
 }
@@ -573,7 +586,7 @@ button:hover {
 }
 
 @media (max-width: 1050px) and (min-width: 0px) {
-  .trigrid {
+  .trigrid, .quadgrid{
     grid-template-columns: 1fr;
   }
 }

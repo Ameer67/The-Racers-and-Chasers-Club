@@ -213,6 +213,86 @@
     <div class="infoimg"></div>
     <div class="border"></div>
 </div>
+<div class="infobox">
+    <div>
+        <div class="infotop grid">
+            <div>
+                <h3>Police Livery</h3>
+                <p>All Lothian Police Service vehicles use the same livery, except for Stealth units which use a darkened version. Livery pieces (side, front, back, etc) and already painted cars can be found on AmeerSixtySeven's storefront.</p>
+            </div>
+            
+            <div class="icon">
+                <img src="img/icons/bucket.png" alt="bucket">
+            </div>
+        </div>
+        <div class="infobottom" style="padding-bottom:0;">
+            <div class="quadgrid grid">
+
+                <div class="member grid">
+                    <div class="memberimg" style="background:#fff;">
+                    </div>
+                    <div class="colorinfo">
+                        <h4 style="color:#fff;">White</h4>
+                        <h5>Hue: 0.00</h5>
+                        <h5>Sat: 0.00</h5>
+                        <h5>Bri: 1.00</h5>
+                    </div>
+                </div>
+
+                <div class="member grid">
+                    <div class="memberimg" style="background:#fff100;">
+                    </div>
+                    <div class="colorinfo">
+                        <h4 style="color:#fff100;">Yellow</h4>
+                        <h5>Hue: 0.16</h5>
+                        <h5>Sat: 1.00</h5>
+                        <h5>Bri: 1.00</h5>
+                    </div>
+                </div>
+
+                <div class="member grid">
+                    <div class="memberimg" style="background:#0024ad;">
+                    </div>
+                    <div class="colorinfo">
+                        <h4 style="color:#0024ad;">Blue</h4>
+                        <h5>Hue: 0.63</h5>
+                        <h5>Sat: 1.00</h5>
+                        <h5>Bri: 0.63</h5>
+                    </div>
+                </div>
+
+                <div class="member grid">
+                    <div class="memberimg" style="background:#ff0000;">
+                    </div>
+                    <div class="colorinfo">
+                        <h4 style="color:#ff0000;">Red</h4>
+                        <h5>Hue: 0.00</h5>
+                        <h5>Sat: 1.00</h5>
+                        <h5>Bri: 1.00</h5>
+                    </div>
+                </div>
+
+            </div>
+            <div class="mapimgcontainer" style="margin-top:0; margin-bottom: 0;">
+                <img src="img/cars/livery_front.jpg" alt="livery front">
+            </div>
+            <div class="mapimgcontainer" style="margin-top:0; margin-bottom: 0;">
+                <img src="img/cars/livery_rear.jpg" alt="livery rear">
+            </div>
+            <div class="mapimgcontainer" style="margin-top:0; margin-bottom: 0;">
+                <img src="img/cars/livery_stealth.jpg" alt="livery stealth">
+            </div>
+            <div class="mapimgcontainer" style="margin-top:0; margin-bottom: 0;">
+                <img src="img/cars/livery_stealth_rear.jpg" alt="livery stealth rear">
+            </div>
+
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+
 
 </section> 
 </body> 
