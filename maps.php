@@ -13,6 +13,22 @@
 <div class="infobox">
     <div>
         <div class="infotop">
+            <h3>Edinburgh North</h3>
+            <p>The northern section of Edinburgh containing plenty of roundabouts, botanic garden, and more. Works best with 6+ players.</p>
+        </div>
+        <div class="infobottom">
+            <div class="mapimgcontainer">
+                <img src="img/maps/edinburgh_north.jpg" alt="edinburgh north">
+            </div>
+        </div>
+    </div>
+    
+    <div class="infoimg"></div>
+    <div class="border"></div>
+</div>
+<div class="infobox">
+    <div>
+        <div class="infotop">
             <h3>Edinburgh South</h3>
             <p>The southern section of Edinburgh containing the castle, police HQ, and more. Works best with 6+ players.</p>
         </div>
