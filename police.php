@@ -259,7 +259,7 @@
                         <h4 style="color:#0024ad;">Blue</h4>
                         <h5>Hue: 0.63</h5>
                         <h5>Sat: 1.00</h5>
-                        <h5>Bri: 0.63</h5>
+                        <h5>Bri: 0.68</h5>
                     </div>
                 </div>
 
