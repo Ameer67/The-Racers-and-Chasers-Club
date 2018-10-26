@@ -74,7 +74,7 @@
     <div>
         <div class="infotop grid">
             <div>
-                <h3>Duel [WIP - Waiting on Route Creator]</h3>
+                <h3>Duel</h3>
                 <p>Run away from the cops <span style="font-style:italic;">and</span> &nbsp;win the race.</p>
             </div>
             <div class="icon">
@@ -89,14 +89,14 @@
             </div>
             <div class="modeinfo">
                 <h4>How it works</h4>
-                <p>The host of the lobby will set a group destination (the finish line) on the map. Two people are assigned to be racers, and everyone else is a cop. Only one attempt is given. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
+                <p>Before the lobby starts, the host creates a blueprint event using the route creator. When the room opens, the host should start a convoy PVP race at the start location they originated their blueprint from. Two people are assigned to be racers, and everyone else is a cop. The host should give cops a few minutes to spread out at the start of the race, then the cop closest to the start should do a countdown. Only one attempt is given for racers. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
             </div>
             <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
                 <ul>
-                    <li>Racers MUST follow fixed a route. Cops do not have to follow it.</li>
+                    <li>Racers MUST follow fixed a route, no shortcuts. Cops do not have to follow it.</li>
                     <li>Only one cop is allowed to start right by the racers (they should also do the race countdown). Other cops should spread out strategically.</li>
-                    <li>Fast traveling is prohibited once the race starts.</li>
+                    <li>Cops should not cross the finish line before racers.</li>
                     <li>Minimap and names above cars are allowed.</li>
                     <li>Pursuit priorities do not apply.</li>
                     <li>SWAT and Enforcer vehicles are not allowed.</li>
