@@ -85,6 +85,31 @@
                     $rulequery = mysqli_query($databaseConnection, $carRule);
                     include("components/rulelist.php");
                 ?>
+                <li>Racers must make an announcement if they will be driving a heavy vehicle weighing over 5,000 lbs, which are as follows:
+                    <div class="policecarrestrictions" style="margin-top:.5em;">
+                        <div class="trigrid grid">
+                        <p>1931	Bentley	8-Litre <br> (5,600 lbs)</p>
+                        <p>1983	GMC	Vandura G-1500 <br> (5,050 lbs)</p>
+                        <p>1986	Lamborghini	LM 002 <br> (5,950 lbs)</p>
+                        <p>2006	Hummer	H1 Alpha <br> (8,110 lbs)</p>
+                        <p>2008	Volkswagen	Touareg R50 <br> (5,750 lbs)</p>
+                        <p>2011	BMW	X5 M <br> (5,370 lbs)</p>
+                        <p>2011	Ford	F-150 SVT Raptor <br> (6,000 lbs)</p>
+                        <p>2013	Bentley	Continental GT Speed <br> (5,120 lbs)</p>
+                        <p>2013	Mercedes-Benz	G 65 AMG <br> (5,690 lbs)</p>
+                        <p>2014	Jeep	Grand Cherokee SRT <br>(5,150 lbs)</p>
+                        <p>2015	BMW	X6 M <br> (5,180 lbs)</p>
+                        <p>2015	Land Rover	Range Rover Sport SVR <br> (5,150 lbs)</p>
+                        <p>2016	Bentley	Bentayga <br> (5,340 lbs)</p>
+                        <p>2016	Nissan	Titan Warrior Concept <br> (7,390 lbs)</p>
+                        <p>2017	Bentley	Continental Supersports <br> (5,030 lbs)</p>
+                        <p>2017	Ford	F-150 Raptor <br> (5,450 lbs)</p>
+                        <p>2017	Ram	2500 Power Wagon <br> (7,040 lbs)</p>
+                        <p>2018	Dodge	Durango SRT <br> (5,510 lbs)</p>
+                        <p>2018	Jeep	Grand Cherokee Trackhawk <br> (5,150 lbs)</p>
+                        </div>
+                    </div>
+                </li>
                 <li>Engine swaps originating from race cars are banned, which are as follows:
                     <div class="policecarrestrictions" style="margin-top:.5em;">
                         <div class="trigrid grid">
