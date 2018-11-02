@@ -14,7 +14,7 @@
     <div>
         <div class="infotop">
             <h3>Edinburgh North</h3>
-            <p>The northern section of Edinburgh containing plenty of roundabouts, botanic garden, and more. Works best with 6+ players.</p>
+            <p>The northern section of Edinburgh containing plenty of roundabouts, botanic garden, and more. Works best with 6+ players. Split up into two beats (patrol areas): west and east. The host or dispatch should assign units to each area.</p>
         </div>
         <div class="infobottom">
             <div class="mapimgcontainer">
@@ -30,7 +30,7 @@
     <div>
         <div class="infotop">
             <h3>Edinburgh South</h3>
-            <p>The southern section of Edinburgh containing the castle, police HQ, and more. Works best with 6+ players.</p>
+            <p>The southern section of Edinburgh containing the castle, police HQ, and more. Works best with 6+ players. Split up into two beats (patrol areas): west and east. The host or dispatch should assign units to each area.</p>
         </div>
         <div class="infobottom">
             <div class="mapimgcontainer">
