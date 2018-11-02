@@ -108,7 +108,7 @@
                 <div class="carinfo">
                     <h4>Light Rhino</h4>
                     <p>This class consists of relatively small SUVs and pickups made for ramming racers off the road. They can prove useful during offroad situations in which a Cruiser might struggle. See eligible cars below. 
-                    <br>Restrictions: only 1 allowed on-duty until there are 8+ players, then 2.</p>
+                    <br>Restrictions: only 1 allowed on-duty until there are 8+ players, then 2. When racer is in a heavy (5,000 lbs) car, no restrictions.</p>
                 </div>
                 <div class="carimg" style="background-image: url('img/cars/light_rhino.jpg');"></div>
             </div>
