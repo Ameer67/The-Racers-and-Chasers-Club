@@ -66,15 +66,15 @@
         <div class="infobottom trigrid grid">
             <div>
                 <h4>Priority 3</h4>
-                <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. <br>Example: typical traffic stop.</p>
+                <p>The pursuit (if there is one) is under control and hasn't escalated. Backup is not needed at the moment. Cops should NOT be using aggressive tactics. <br>Example: typical traffic stop/beginning of pursuit.</p>
             </div>
             <div>
                 <h4>Priority 2</h4>
-                <p>The pursuit is starting to escalate and things are getting a bit out of hand. Some backup would be useful. <br>Example: runaway speeder.</p>
+                <p>The pursuit is starting to escalate and things are getting a bit out of hand. More backup would be useful. Cops should start using more agressive tactics. <br>Example: pursuit is starting to endanger cops and civilians.</p>
             </div>
             <div>
                 <h4>Priority 1</h4>
-                <p>The pursuit is completely out of control and all backup available should join the chase. <br> Example: pursuit that has been going on for a while.</p>
+                <p>The pursuit is completely out of control and all backup available should join the chase. Cops should use full force and consider calling heavy rhino or SWAT for assistance. <br> Example: dangerous pursuit that has been going on for a while.</p>
             </div> 
         </div>
     </div>
