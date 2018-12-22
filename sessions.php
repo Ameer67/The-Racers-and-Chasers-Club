@@ -90,7 +90,7 @@
             </div>
             <div class="modeinfo">
                 <h4>How it works</h4>
-                <p>Before the lobby starts, the host creates a blueprint event using the route creator. When the room opens, the host should start a convoy PVP race at the start location they originated their blueprint from. Two people are assigned to be racers, and everyone else is a cop. The host should give cops a few minutes to spread out at the start of the race, then the cop closest to the start should do a countdown. Only one attempt is given for racers. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
+                <p>The host should create a route with a start and finish line and post a map on thread. When the room opens, all players will meet at the start location. Before starting the Duel, the host should lead the group and drive to the finish line to make sure players know the route. Two people are assigned to be racers, and everyone else is a cop. A few minutes are provided to allow the cops to spread out, then the cop closest to the start should do a countdown. Only one attempt is given for racers. Once a racer's turn is up, someone else is allowed to take their spot and the previous racer must switch to a cop. </p>
             </div>
             <div class="modeinfo">
                 <h4>Specific rules/regulations</h4>
