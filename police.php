@@ -20,19 +20,18 @@
         <div class="infobottom trigrid grid">
             <div>
                 <h4>1. Patrolling</h4>
-                <p>All on-duty police officers will be on the lookout for anyone causing trouble. Police are not allowed to continually follow anyone around unless they are doing something suspiscous.</p>
+                <p>All on-duty police officers will be on the lookout for anyone causing trouble. Police are not allowed to continually follow anyone around unless they are doing something suspiscous. If the officer spots a racer, move to step 2.</p>
             </div>
             <div>
-                <h4>2. Initiating the pursuit</h4>
-                <p>Once the officer sees an offender, they will attempt to pull them over by driving behind their vehicle and honking their horn/siren a few times. Officers should give racers a few seconds to pull over before starting a chase.</p>
+                <h4>2. Initiating the traffic stop/pursuit</h4>
+                <p>Police will attempt to halt racers by driving behind their vehicle and turning on their siren. Officers should give racers a few seconds to pull over before starting a chase. Up to two officers are allowed to participate in a traffic stop, all others should be out of the vicinity and continue patrolling.</p>
             </div>
             <div>
                 <h4>3. Chasing the racer</h4>
-                <p>If the offender does not stop their vehicle, the officer and offender are now in a pursuit. Whatever is needed to bust the racer will be done.</p>
+                <p>If the offender does not stop their vehicle or drives away from the traffic stop, the officer and offender are now in a pursuit. Whatever is needed to bust the racer will be done.</p>
             </div>
             <div>
                 <h4>4A. Busting the racer</h4>
-                
                 <p>If the racer's vehicle is surrounded for 10 seconds, lands on their side/roof after a jump, or is unable to go faster than 30 mph due to damage (basically limp mode), they are considered busted. If police lose visual contact for 2 minutes, the racer has successfully evaded, so back to step 1.</p>
             </div>
             <div>
