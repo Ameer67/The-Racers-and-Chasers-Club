@@ -17,7 +17,9 @@
 </head>
 <?php include("dbsettings.php") ?>
 <body>
-
+<div id="closedwarning">
+    <h4>The club has been closed. Thanks for all the fun.</h4>
+</div>
 <div class="banner">
 </div>
 <script src="scripts/bannerGradient.js"></script>
