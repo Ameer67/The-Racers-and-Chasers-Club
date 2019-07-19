@@ -1,3 +1,4 @@
+![](img/TR&CC_main_shadow.png)
 # The Racers & Chasers Club
 Official website for an online cops and robbers club in the video game *Forza Horizon 4*.
 
